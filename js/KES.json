@@ -1,0 +1,523 @@
+{
+  "mediaPresents": [
+    {
+      "captionRussianName": "«Крестьянское хозяйство» - проект «Родина слонов».",
+      "captionLink": "https: //youtu.be/p-Lf_vSIuaY",
+      "coverImageURL": "../images/media-kr-hoz.jpg",
+      "iframeURL": "https://www.youtube.com/embed/p-Lf_vSIuaY",
+      "isVideo": true,
+      "year": "2020"
+    },
+    {
+      "captionRussianName": "«Роскошная жизнь русских дворян» - проект «Arzamas».",
+      "captionLink": "https://arzamas.academy/courses/35/1",
+      "coverImageURL": "../images/media-ros-gzizn.jpg",
+      "iframeURL": "https://www.youtube.com/embed/9DbocU-Cn4c",
+      "isVideo": true,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«Почему дворяне всегда были в долгах» - проект «Arzamas».",
+      "captionLink": "https://arzamas.academy/courses/35/2",
+      "coverImageURL": "../images/media-poch-dvor.jpg",
+      "iframeURL": "https://www.youtube.com/embed/LCemqJP6OfI",
+      "isVideo": true,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«Как государство взимало налоги» - проект «Arzamas».",
+      "captionLink": "https://arzamas.academy/courses/35/3",
+      "coverImageURL": "../images/media-kak-gos.jpg",
+      "iframeURL": "https://www.youtube.com/embed/YkwZtO2EoHs",
+      "isVideo": true,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«Как управиться с бюджетом» - проект «Arzamas».",
+      "captionLink": "https://arzamas.academy/courses/35/4",
+      "coverImageURL": "../images/media-kak-upr.jpg",
+      "iframeURL": "https://www.youtube.com/embed/PHGArfaj2FI",
+      "isVideo": true,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«На чем зарабатывала и куда тратила деньги Российская Империя 250 лет назад» - проект «Кафедра».",
+      "captionLink": "https://radiomayak.ru/videos/video/id/1572489/",
+      "coverImageURL": "../images/media-na-chem.jpg",
+      "iframeURL": "https://www.youtube.com/embed/DMEOEO_PUD0",
+      "isVideo": true,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«Россия и Дания: сравнение империй» - проект «Родина слонов».",
+      "captionLink": "https://youtu.be/-2tE8bA4bJE",
+      "coverImageURL": "../images/media-ros-dan.jpg",
+      "iframeURL": "https://www.youtube.com/embed/-2tE8bA4bJE",
+      "isVideo": true,
+      "year": "2020"
+    },
+    {
+      "captionRussianName": "«Дворяне VS дворянки в России XVIII века: Кто лучше разбирался в экономических вопросах» - проект «(Не)обыкновенный русский XVIII век».",
+      "captionLink": "https://m.polit.ru/article/2020/07/06/korchmina/",
+      "coverImageURL": "../images/media-polit-ru.jpg",
+      "iframeURL": "https://www.youtube.com/embed/1l7_dfBzzKg",
+      "isVideo": true,
+      "year": "2020"
+    },
+    {
+      "captionRussianName": "«Список Forbes XVIII века» - проект «Кафедра».",
+      "captionLink": "https://radiomayak.ru/videos/video/id/1532158/",
+      "coverImageURL": "../images/media-spis-forbes.jpg",
+      "iframeURL": "https://www.youtube.com/embed/47ygZtcLWCQ",
+      "isVideo": true,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "Конференция «Антропология Москвы: новое знание о городе» - Музей Москвы.",
+      "captionLink": "http://mosmuseum.ru/events/p/nauchno-prakticheskaya-konferentsiya-antropologiya-moskvyi-novoe-znanie-o-gorode/",
+      "coverImageURL": "../images/media-konf-antro.jpg",
+      "iframeURL": "https://www.youtube.com/embed/z32Y10QHcZU?t=1210",
+      "isVideo": true,
+      "year": "2017"
+    },
+    {
+      "captionRussianName": "Научная конференция «Грамотность и образованность как явления и понятия в России XVIII века» - ЦИ НИУ ВШЭ.",
+      "captionLink": "https://www.youtube.com/watch?v=wGuZDqANcLs",
+      "coverImageURL": "../images/media-konf-gram.jpg",
+      "iframeURL": "https://www.youtube.com/embed/wGuZDqANcLs",
+      "isVideo": true,
+      "year": "2015"
+    },
+    {
+      "captionRussianName": "«Зачем везти муравьиные яйца из Брянска в Москву?» - интервью «Arzamas».",
+      "captionLink": "https://arzamas.academy/materials/998",
+      "coverImageURL": "../images/KES-Arzamas-anteggs.jpg",
+      "iframeURL": "https://arzamas.academy/materials/998",
+      "isVideo": false,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«Тотальная коррупция в России — это миф» - интервью «Секрет Фирмы».",
+      "captionLink": "https://secretmag.ru/cases/interview/istorik-elena-korchmina-totalnaya-korrupciya-v-rossii-eto-mif.htm",
+      "coverImageURL": "../images/KES-secretfirmi-1.jpg",
+      "iframeURL": "https://secretmag.ru/cases/interview/istorik-elena-korchmina-totalnaya-korrupciya-v-rossii-eto-mif.htm",
+      "isVideo": false,
+      "year": "2016"
+    },
+    {
+      "captionRussianName": "«Петербург и Москва: новая столица против старой» - проект «Arzamas».",
+      "captionLink": "https://arzamas.academy/university/units/3?e=2",
+      "coverImageURL": "../images/media-pet-mos.jpg",
+      "iframeURL": "https://arzamas.academy/university/units/3?e=2",
+      "isVideo": true,
+      "year": "2018"
+    },
+    {
+      "captionRussianName": "«Взятки и офшоры петровской России» - интервью «газета.ru».",
+      "captionLink": "https://www.gazeta.ru/science/2016/06/20_a_8311103.shtml",
+      "coverImageURL": "../images/KES-gazetaru-1.jpg",
+      "iframeURL": "https://www.gazeta.ru/science/2016/06/20_a_8311103.shtml",
+      "isVideo": false,
+      "year": "2016"
+    }
+  ],
+
+  "publications": [
+    {
+      "authors": "Andrei Zorin, Elena Korchmina.",
+      "title": "Karamzin and Money.",
+      "journal": "Cahiers du Monde Russe.",
+      "year": "2018",
+      "rest": "Vol. 59. No. 1. P. 117-140.",
+      "journalLink": "https://journals.openedition.org/monderusse/10272",
+      "fileLink": "./docs/Zorin_A_Korchmina_E_Karamzin_and_Money.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Igor Fedyukin.",
+      "title": "Extralegal payments to state officials in Russia, 1750s–1830s: assessing the burden of corruption.",
+      "journal": "Economic History Review.",
+      "year": "2018",
+      "rest": "Vol. 72. P. 156-181.",
+      "journalLink": "https://www.ehs.org.uk/app/journal/article/10.1111/ehr.12666/abstract?issue=10.1111/ehr.2019.72.issue-1",
+      "fileLink": "./docs/Extralegal_payments_to_state_officials_i.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Conceptualising the Notion of “Profit” among the Russian Nobility (Second Half of the 18th – First Half of the 19th Centuries).",
+      "journal": "Quaestio Rossica.",
+      "year": "2018",
+      "rest": "Vol. 6. P. 1144–1159.",
+      "journalLink": "https://qr.urfu.ru/ojs/index.php/qr/article/view/qr.351",
+      "fileLink": "./docs/Conceptualising the Notion of “Profit” among the Russian Nobility (Second Half of the 18th – First Half of the 19th Centuries).pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "What Could the Empress Know About Her Money? Russian Poll Tax Revenues in the Eighteenth Century.",
+      "journal": "In book: Information and Empire: Mechanisms of Communication in Russia, 1600-1850.",
+      "year": "2017",
+      "rest": "P. 287-310.",
+      "journalLink": "https://books.openedition.org/obp/4774",
+      "fileLink": "./docs/What Could the Empress Know About Her Money.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "The Practice of Personal Finance and the Problem of Debt among the Noble Elite in Eighteenth-Century Russia.",
+      "journal": "In book: The Europeanized Elite in Russia, 1762–1825: Public Role and Subjective Self.",
+      "year": "2016",
+      "rest": "P. 162-192.",
+      "journalLink": "https://www.cornellpress.cornell.edu/book/9780875807478/the-europeanized-elite-in-russia-17621825/#bookTabs=1",
+      "fileLink": "The_Europeanized_elite_in_Russia_1762_18"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "«… v chest' vzjatok ne davat'…»: kak «pochest'» stanovitsja «vzjatkoj» v postletrovskoj Rossii. (“… don’t give bribes in honour…” how gifts became bribes in Post-Petrine Russia).",
+      "journal": "Rossiskaya istoria.",
+      "year": "2015",
+      "rest": "№ 2. P. 3-13.",
+      "journalLink": "http://xn----7sbxcach3agmieaceq1th.xn--p1ai/archive/2015-2",
+      "fileLink": "./docs/v chest vzjatok ne davat.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "«Nabrat' pobolee damskih upolnomochij»: uchastie dvorjanok v soslovnyh vyborah v Rossii v pervoj polovine XIX v. (po materialam Rjazanskoj gubernii). (“To take more ladies’ votes…” the participation of women in noble elections in the first half of the 18th century).",
+      "journal": "Rossiskaya istoria.",
+      "year": "2015",
+      "rest": "№ 6. P. 18-25.",
+      "journalLink": "http://xn----7sbxcach3agmieaceq1th.xn--p1ai/archive/2015-6",
+      "fileLink": "./docs/nabrat pobolee.pdf"
+    },
+    {
+      "authors": "Igor Fedyukin, Elena Korchmina.",
+      "title": "Sobiraemost' podushnoj podati v seredine XVIII v.: k voprosu ob jeffektivnosti gosudarstvennogo apparata v Rossii v istoricheskoj perspektive. (Collecting Poll Tax in Mid-Eighteenth Century: Assessing the Effectiveness of Russian State Apparatus in Historical Perspective).",
+      "journal": "Ekonomicheskaja istorija: Ezhegodnik.",
+      "year": "2014",
+      "rest": "P. 89-127.",
+      "journalLink": "http://www.iriran.ru/?q=Econhist",
+      "fileLink": "./docs/sobiraemost.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "«… mnogie milliony gosudarstvennoj kazny v neizvestnosti nahodjatsja..»: nedoimki po podushnoj podati 1720-h – 1760-h gg. (“Many millions of Russian state money are unknown”: poll tax arrears of the 1720s-1760s).",
+      "journal": "Rossiskaya istoria.",
+      "year": "2013",
+      "rest": "№ 5. P. 77-91.",
+      "journalLink": "http://xn----7sbxcach3agmieaceq1th.xn--p1ai/archive/2013-5",
+      "fileLink": "./docs/mnogie millioni.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Pereselenie rjazanskih dvorjan v Simbirskuju guberniju v 40-50h gg. XIX v. (Relocation of the poorest nobility from Ryasan to Simbirsk region in 1840-1850s).",
+      "journal": "Izvestija Samarskogo nauchnogo centra Rossijskoj Akademii Nauk.",
+      "year": "2010",
+      "rest": "Vol. 12. № 6. P. 35-40.",
+      "journalLink": "http://www.ssc.smr.ru/izvestiya.shtml",
+      "fileLink": "./docs/pereselenie ryazanskih dvoryan.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Nachalo novogo XIX veka v russkoj provincii: vzgljad sovremennikov. (The beginning of the 19th century in Russian province: the perception of contemporaries).",
+      "journal": "Izobretenie veka. Problemy i modeli vremeni v Rossii i Evrope XIX stoletija.",
+      "year": "2013",
+      "rest": "P. 85-96.",
+      "journalLink": "https://publications.hse.ru/books/94299928",
+      "fileLink": "./docs/nachalo novogo.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Paul Sharp.",
+      "title": "Denmark and Russia: What can we learn from the historical comparison of two great Arctic agricultural empires?",
+      "journal": "EHES Working Paper.",
+      "year": "2020",
+      "rest": "No. 187.",
+      "journalLink": "http://www.ehes.org/working_papers.html",
+      "fileLink": "./docs/Denmark_and_Russia_What_can_we_learn_fro.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Поденные заработки чернорабочих и цены в Москве и Тобольске в 18 веке. (DAILY WAGES OF CONSTRUCTION LABOURERS AND PRICES IN MOSCOW AND TOBOLSK IN THE 18TH CENTURY).",
+      "journal": "Уральский исторический вестник.",
+      "year": "2020",
+      "rest": "№ 1(66).",
+      "journalLink": "http://uralhist.uran.ru/archive/490/491/_aview_b660",
+      "fileLink": "./docs/Поденные заработки.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Представления сотрудников дома Бэрингов о ведении дел России в конце XVIII в.",
+      "journal": "Русь, Россия. Средневековье и Новое время.",
+      "year": "2020",
+      "rest": "№ 6. P. 625-628.",
+      "journalLink": "https://publications.hse.ru/books/211923151",
+      "fileLink": "./docs/Представления сотрудников дома Бэрингов.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Что лучше для крестьянина: быть крепостным в Центральной России или свободным в Сибири?",
+      "journal": "Материалы Всероссийской научной конференции с международным участием «Исторические вызовы и экономическое развитие России».",
+      "year": "2019",
+      "rest": "P. 209-217.",
+      "journalLink": "http://www.ihist.uran.ru/news/427/_aview_b557",
+      "fileLink": "./docs/Что лучше для крестьянина.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Paul Sharp.",
+      "title": "Peer Pressure: The Puzzle of Tax Compliance in the Early Nineteenth-Century Russia.",
+      "journal": "EHES Working Paper.",
+      "year": "2018",
+      "rest": "№ 144.",
+      "journalLink": "http://www.ehes.org/working_papers.html",
+      "fileLink": "./docs/Peer_Pressure_The_Puzzle_of_Tax_Complian.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Ilya Voskoboinikov",
+      "title": "Могло ли измельчание помещичьих хозяйств в конце XVIII – начале XIX вв. сделать их более производительными?",
+      "journal": "Русь, Россия. Средневековье и Новое время.",
+      "year": "2015",
+      "rest": "P. 458-464.",
+      "journalLink": "https://publications.hse.ru/books/211923151",
+      "fileLink": "./docs/Могло ли измельчание помещичьих хозяйств.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Соглашение между кредиторами и должником как способ выплаты дворянского долга на рубеже XVIII–XIX вв. (дело князя А.Н. Голицына).",
+      "journal": "Материалы к международной научной конференции. Москва.",
+      "year": "2017",
+      "rest": "P. 525-531.",
+      "journalLink": "",
+      "fileLink": "./docs/Соглашение между кредиторами.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Maya Lavrinovich, Igor Fedyukin.",
+      "title": "Taxes and Budget Information in Early Modern Russia: The Poll Tax in the City and the Village of the XVIII Century.",
+      "journal": "Russian Presidential Academy of National Economy and Public Administration",
+      "year": "2015",
+      "rest": "Moscow.",
+      "journalLink": "https://www.ranepa.ru/eng/",
+      "fileLink": "./docs/Taxes and Budget Information.pdf"
+    },
+    {
+      "authors": "Aleksandr Kamenskii, Elena Korchmina.",
+      "title": "Реформирование экономики (глава 1.4).",
+      "journal": "In Book: Реформы в России с древнейших времен до конца ХХ в. М: Политическая энциклопедия.",
+      "year": "2016",
+      "rest": "Vol. 2.",
+      "journalLink": "https://rosspen.su/reformy-v-rossii-s-drevnejshih-vremen-do-kontsa-hh-v-v-4-t-t-2-xviii-pervaya-polovina-xix-v/",
+      "fileLink": "./docs/Реформирование экономики.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Understanding economic growth and development in Central and Eastern Europe.",
+      "journal": "Workshop in Economic History and Development programme.",
+      "year": "2016",
+      "rest": "Moscow.",
+      "journalLink": "https://hist.hse.ru/en/news/176354565.html",
+      "fileLink": "./docs/Understanding_economic_growth_and_develo.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Подушная подать: микроисследование по материалам Переславль-Рязанского уезда в середине XVIII в.",
+      "journal": "Экономическая история.",
+      "year": "2015",
+      "rest": "№ 2(29). P. 8-23.",
+      "journalLink": "https://publications.hse.ru/articles/157529309",
+      "fileLink": "./docs/Подушная Подать - микроисследование.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "«Сближение» государства и налогоплательщика: уплата подушной подати в середине XVIII в.",
+      "journal": "Материалы V Научных чтений памяти академика И.Д. Ковальченко.",
+      "year": "2014",
+      "rest": "Moscow.",
+      "journalLink": "http://www.hist.msu.ru/about/gen_news/757/?sphrase_id=115730",
+      "fileLink": "./docs/Сближение государства и налогоплательщика.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Дворянское сословное самоуправление в первой половине XIX в.",
+      "journal": "Диссертация на соискание ученой степени кандидата исторических наук.",
+      "year": "2010",
+      "rest": "Ryazan.",
+      "journalLink": "https://www.dissercat.com/content/dvoryanskoe-soslovnoe-samoupravlenie-v-pervoi-polovine-xix-v",
+      "fileLink": "./docs/диссертация КЕС.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Влиятельные дворяне - злостные неплательщики подушной подати?",
+      "journal": "Конференция «Русь. Россия. Средневековье и Новое время. III Чтения памяти академика Л.В.Милова».",
+      "year": "2013",
+      "rest": "МГУ.",
+      "journalLink": "http://www.hist.msu.ru/about/gen_news/817/",
+      "fileLink": "./docs/Миловские чтения 2013.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Дворовые помещиков Рязанской губернии в 1-й половине XIX в.",
+      "journal": "Материалы межрегиональной научно-практической конференции.",
+      "year": "2012",
+      "rest": "Ryazan. РИАМЗ. P. 219-226.",
+      "journalLink": "http://ryazankreml.ru/visitors/489/498/",
+      "fileLink": "./docs/Дворовые помещиков Рязанской губернии.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Институт дворянской опеки в Рязанской губернии в конце XVIII- первой половине XIX века.",
+      "journal": "Социально-культурные аспекты истории экономики России XIX – XX веков: Материалы I Всероссийской научной конференции. Санкт-Петербург, 25–26 мая 2011.",
+      "year": "2012",
+      "rest": "SPb P. 7–13.",
+      "journalLink": "https://publications.hse.ru/en/chapters/118096140",
+      "fileLink": "./docs/institut-dvoryanskoy-opeki.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Дворянские родословные книги как источник изучения деятельности Дворянского депутатского собрания в первой половине XIX в. (на примере Рязанской губернии).",
+      "journal": "Вестник Российского университета дружбы народов. Сер. История России.",
+      "year": "2009",
+      "rest": "№ 6. P. 164–173.",
+      "journalLink": "http://journals.rudn.ru/russian-history/index",
+      "fileLink": "./docs/Дворянские родословные книги.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Правонарушения как основание для ограничения избирательного права дворян (по материалам Рязанской губернии первой половины XIX века).",
+      "journal": "Научные исследования: информация, анализ, прогноз: монография.",
+      "year": "2008",
+      "rest": "ВГПУ. P. 203–215.",
+      "journalLink": "",
+      "fileLink": "./docs/Правонарушения как основание.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Дворянское сословное самоуправление в первой половине XIX в.",
+      "journal": "Автореферат диссертации на соискание ученой степени  кандидата исторических наук.",
+      "year": "2010",
+      "rest": "Ryazan.",
+      "journalLink": "https://www.dissercat.com/content/dvoryanskoe-soslovnoe-samoupravlenie-v-pervoi-polovine-xix-v",
+      "fileLink": "./docs/автореферат диссертации КЕС.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "«Провинциальное потомственное дворянство» Российской империи в конце XVIII – первой половине XIX вв.: понятие и методика определения его численности (на примере Рязанской губернии).",
+      "journal": "Всеобщая история.",
+      "year": "2011",
+      "rest": "№ 6. P. 1-6.",
+      "journalLink": "http://vseist.tgizd.ru/?&lang=ru&page=text&part=theme",
+      "fileLink": "./docs/Провинциальное потомственное дворянство.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Как потомки К.Ф. Миллера в Рязани жили?",
+      "journal": "История, культура и традиции Рязанского края.",
+      "year": "2012",
+      "rest": "Ryazan.",
+      "journalLink": "https://62info.ru/history/node/13654",
+      "fileLink": "./docs/Как потомки К.Ф. Миллера в Рязани жили.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Boris Orehov.",
+      "title": "Использование интерактивных карт при изучении истории налогов в России XVIII в.",
+      "journal": "Информационный бюллетень ассоциации История и компьютер.",
+      "year": "2014",
+      "rest": "№ 42. P. 138-139",
+      "journalLink": "https://www.elibrary.ru/item.asp?id=22837324",
+      "fileLink": ""
+    },
+    {
+      "authors": "Elena Korchmina, Igor Fedyukin.",
+      "title": "Routine corruption in Russia during the reigns of Catherine II and Alexander I.",
+      "journal": "Higher School of Economics Research Paper.",
+      "year": "2016",
+      "rest": "№ WP BRP 136/HUM/2016.",
+      "journalLink": "https://publications.hse.ru/preprints/198106111",
+      "fileLink": "./docs/routine corruption.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Описания регионов (наместничеств, губерний) 1780-1790-х гг. - источник по исторической статистике?",
+      "journal": "In book: Библиография. Археография. Источниковедение: Сборники статей и материалов.",
+      "year": "2015",
+      "rest": "P. 47.",
+      "journalLink": "http://oldbasman.ru/magazin-2/product/bibliografiya-arkheografiya-istochnikovedeniye-sbornik-statey-i-materialov-vypusk-2",
+      "fileLink": "./docs/ОПИСАНИЯ РЕГИОНОВ.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "‘Luxury’As the Pedagogical Project of the Russian Emperors and Empresses: The History of the Concept in the 18th Century.",
+      "journal": "Higher School of Economics Research Paper.",
+      "year": "2019",
+      "rest": "№ WP BRP 178/HUM/2019.",
+      "journalLink": "https://www.hse.ru/en/",
+      "fileLink": "./docs/luxury.pdf"
+    },
+    {
+      "authors": "Roman Konchakov, Elena Korchmina.",
+      "title": "Кто кормил московских дворян? О структуре душевладений дворян Московской губернии в 1812г.",
+      "journal": "Электронный научно-образовательный журнал «История».",
+      "year": "2020",
+      "rest": "Vol. 11. №3(89).",
+      "journalLink": "https://history.jes.su/s207987840009536-8-1/",
+      "fileLink": ""
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "The Circulation of Information About the Poll Tax Revenues as an Indicator of Russian Empire Undergoverness in the in the 18th Century.",
+      "journal": "Higher School of Economics Research Paper.",
+      "year": "2016",
+      "rest": "№ WP BRP 137/HUM/2016.",
+      "journalLink": "https://publications.hse.ru/preprints/197981757",
+      "fileLink": "./docs/The Circulation of Information.pdf"
+    },
+    {
+      "authors": "Ilya Voskoboinikov, Elena Korchmina.",
+      "title": "XVII Международный конгресс по экономической истории в Киото и вечные надежды на улучшение климата в российской наук.",
+      "journal": "Ekonomicheskaja istorija: Ezhegodnik.",
+      "year": "2016",
+      "rest": "Vol. 2014-2015. P. 613-619.",
+      "journalLink": "http://www.iriran.ru/?q=Econhist",
+      "fileLink": ""
+    },
+    {
+      "authors": "Igor Fedyukin, Elena Korchmina.",
+      "title": "Местные Агенты Государства в России в Раннее Новое Время (Local Agents of the State in Russia in the Early New Age).",
+      "journal": "Russian Presidential Academy of National Economy and Public Administration.",
+      "year": "2014",
+      "rest": "Moscow.",
+      "journalLink": "https://www.ranepa.ru/eng/",
+      "fileLink": "./docs/Местные агенты.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Boris Orehov.",
+      "title": "Международная конференция «Неудобное знание: социальная симптоматика и эпистемологическая рефлексия».",
+      "journal": "НЛО.",
+      "year": "2014",
+      "rest": "№ 4/2013.",
+      "journalLink": "https://www.nlobooks.ru/magazines/novoe_literaturnoe_obozrenie/122_nlo_4_2013/article/10566/",
+      "fileLink": "./docs/Международная конференция Неудобное знание.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Ревизские сказки Рязанской губернии конца XVIII – первой половины XIX в.: возможности комплексного изучения истории дворянства.",
+      "journal": "Материалы международной конференции.",
+      "year": "2011",
+      "rest": "Витебск.",
+      "journalLink": "https://publications.hse.ru/en/chapters/115901439",
+      "fileLink": "./docs/Ревизские сказки.pdf"
+    },
+    {
+      "authors": "Elena Korchmina, Fedotova Anastasia.",
+      "title": "Cattle pasturing as a traditional form of forest use and conflicts between peasants and forestry administration in the long nineteenth century (The case of Białowieża Forest).",
+      "journal": "Global Environment: A Journal of Transdisciplinary History.",
+      "year": "2020",
+      "rest": "Vol. 13. № 3.",
+      "journalLink": "https://publications.hse.ru/articles/381220130",
+      "fileLink": "./docs/Cattle abstract.pdf"
+    },
+    {
+      "authors": "Elena Korchmina.",
+      "title": "Экономическая мысль XVIII в. о хозяйствовании и экономическом поведении дворян.",
+      "journal": "In book: Общественная мысль России: с древнейших времен до середины ХХ в. : в 4 т. Т. 2 : Общественная мысль России XVIII – первой четверти XIX в.",
+      "year": "2020",
+      "rest": "P. 323-346.",
+      "journalLink": "https://rosspen.su/obschestvennaya-mysl-rossii-s-drevnejshih-vremen-do-serediny-hh-v-v-4-t-t-2-obschestvennaya-mysl-rossii-xviii-pervoj-chetverti-xix-v-1748-01/",
+      "fileLink": ""
+    }
+  ]
+}
