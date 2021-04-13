@@ -1,343 +1,359 @@
 body {
-  background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.8);
 }
 
 .wrapper {
-  width: 86%;
-  height: 98vh;
-  margin: 2vh 7% 0 7%;
-  display: flex;
-  justify-content: stretch;
-  min-width: 760px;
+	width: 86%;
+	height: 98vh;
+	margin: 2vh 7% 0 7%;
+	display: flex;
+	justify-content: stretch;
+	min-width: 760px;
 }
 
 /* General sidebar */
 
-  #deviceDropDownButton {
-    display: none;
-  }
+#deviceDropDownButton {
+	display: none;
+}
 
 .sidebar {
-  width: 300px;
-  min-width: 300px;
-  background-color: rgb(32, 32, 32);
-  padding: 30px 30px 20px 30px;
-  height: 99%;
-  z-index: 10;
+	width: 300px;
+	min-width: 300px;
+	background-color: rgb(32, 32, 32);
+	padding: 30px 30px 20px 30px;
+	height: 99%;
+	z-index: 10;
 }
 
 .sidebar__logo {
-  font-family: 'Yellowtail', cursive;
-  font-size: 40px;
-  color: rgb(243, 156, 18);
-  margin-left: -2px;
+	font-family: "Yellowtail", cursive;
+	font-size: 40px;
+	color: rgb(243, 156, 18);
+	margin-left: -2px;
+}
+
+.yellow {
+	color: rgb(243, 156, 18) !important;
 }
 
 .sidebar__sublogo {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 13px;
-  letter-spacing: 0.05em;
-  color: rgb(255, 255, 255, 0.7);
-  margin-top: 12px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 13px;
+	letter-spacing: 0.05em;
+	color: rgb(255, 255, 255, 0.7);
+	margin-top: 12px;
 }
 
 .sidebar__title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-  color: rgb(255, 255, 255);
-  text-transform: uppercase;
-  padding-top: 10px;
+	font-family: "Oswald", sans-serif;
+	font-size: 16px;
+	color: rgb(255, 255, 255);
+	text-transform: uppercase;
+	padding-top: 10px;
 }
 
 .nav {
-  margin-top: 40px;
+	margin-top: 40px;
 }
 
 .nav__item {
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .nav__item:hover {
-  color: rgb(243, 156, 18, 0.5);
+	color: rgb(243, 156, 18, 0.5);
 }
 
 .margin--break {
-  margin-top: 30px;
+	margin-top: 30px;
 }
 
 .nav__item--active {
-  color: rgb(243, 156, 18) !important;
+	color: rgb(243, 156, 18) !important;
 }
 
 .social {
-  display: flex;
-  align-items: baseline;
-  justify-content: start;
-  margin-top: 16px;
+	display: flex;
+	align-items: baseline;
+	justify-content: start;
+	margin-top: 16px;
 }
 
 .social__link {
-  margin-right: 30px;
-  width: 25px;
-  text-align: left;
+	margin-right: 30px;
+	width: 25px;
+	text-align: left;
 }
 
 .social__item {
-  cursor: pointer;
-  color: rgb(255, 255, 255);
-  font-size: 18px;
-  width: 18px;
+	cursor: pointer;
+	color: rgb(255, 255, 255);
+	font-size: 18px;
+	width: 18px;
 }
 
 .social__item:hover {
-  color: rgb(243, 156, 18);
+	color: rgb(243, 156, 18);
 }
 
 /* General main section */
 
 .main {
-  padding: 30px 30px 20px 40px;
-  width: 100%;
-  vertical-align: top;
-  background-color: rgb(42, 42, 42);
-  height: 99%;
-  background: url(../images/main_bg_texture_small.png) repeat;
+	padding: 30px 30px 20px 40px;
+	width: 100%;
+	vertical-align: top;
+	background-color: rgb(42, 42, 42);
+	height: 99%;
+	background: url(../images/main_bg_texture_small.png) repeat;
 }
 
 .main__title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 48px;
-  color: rgb(243, 156, 18);
-  text-transform: uppercase;
+	font-family: "Oswald", sans-serif;
+	font-size: 48px;
+	color: rgb(243, 156, 18);
+	text-transform: uppercase;
 }
 
 .main__subtitle {
-  font-family: 'Oswald', sans-serif;
-  font-size: 32px;
-  color: rgb(255, 255, 255, 0.8);
-  text-transform: uppercase;
-  margin-top: 5px;
+	font-family: "Oswald", sans-serif;
+	font-size: 32px;
+	color: rgb(255, 255, 255, 0.8);
+	text-transform: uppercase;
+	margin-top: 5px;
 }
 
 /* About Me section */
 
 .aboutme__photo__container {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  display: inline-block;
-  position: relative;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	display: inline-block;
+	position: relative;
 }
 
 .aboutme__photo {
-  width: 210px;
+	width: 210px;
 }
 
 .aboutme__photo__caption {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 10px;
-  color: rgb(255, 255, 255, 0.4);
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  opacity: 0;
-  transition: opacity 0.5s;
-  text-align: right;
+	font-family: "Open Sans", sans-serif;
+	font-size: 10px;
+	color: rgb(255, 255, 255, 0.4);
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	opacity: 0;
+	transition: opacity 0.5s;
+	text-align: right;
 }
 
 .aboutme__info {
-  display: inline-block;
-  vertical-align: top;
-  width: 400px;
-  margin-top: 40px;
-  margin-left: 28px;
+	display: inline-block;
+	vertical-align: top;
+	width: 400px;
+	margin-top: 40px;
+	margin-left: 28px;
 }
 
 .common__text {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  color: rgb(255, 255, 255, 0.7);
-  line-height: 1.5;
-  margin-bottom: 5px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	color: rgb(255, 255, 255, 0.7);
+	line-height: 1.5;
+	margin-bottom: 5px;
 }
 
 .aboutme__citation {
-  font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-  color: rgb(243, 156, 18);
-  text-transform: uppercase;
-  line-height: 1.5;
-  margin-top: 38px;
+	font-family: "Oswald", sans-serif;
+	font-size: 16px;
+	color: rgb(243, 156, 18);
+	text-transform: uppercase;
+	line-height: 1.5;
+	margin-top: 38px;
 }
 
 .aboutme__citation__author {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  color: rgb(255, 255, 255, 0.7);
-  line-height: 1.5;
-  margin-top: 5px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	color: rgb(255, 255, 255, 0.7);
+	line-height: 1.5;
+	margin-top: 5px;
 }
 
 .bold {
-  font-weight: 700;
-  color: rgb(243, 156, 18, 0.8);
+	font-weight: 700;
+	color: rgb(243, 156, 18, 0.8);
 }
 
 .italic {
-  font-style: italic;
+	font-style: italic;
 }
 
 .button {
-  background-color: rgb(243, 156, 18, 0.8);
-  color: rgb(255, 255, 255);
-  width: 128px;
-  height: 43px;
-  cursor: pointer;
-  transition: all 0.2s;
-  text-decoration: none;
-  font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  text-transform: uppercase;
-  text-align: center;
+	background-color: rgb(243, 156, 18, 0.8);
+	color: rgb(255, 255, 255);
+	width: 128px;
+	height: 43px;
+	cursor: pointer;
+	transition: all 0.2s;
+	text-decoration: none;
+	font-family: "Oswald", sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+	text-align: center;
 }
 
 .button:hover {
-  box-shadow: 0 0 3px rgba(0,0,0,0.6);
-  background-color: rgb(255, 255, 255, 0.7);
-  color: rgb(243, 156, 18);
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
+	background-color: rgb(255, 255, 255, 0.7);
+	color: rgb(243, 156, 18);
 }
 
 /* Media Presents section */
 
-.mediaPresents__container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-  grid-gap: 20px;
-  overflow-y: scroll;
+.mediaPresents__container,
+.articles__container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+	grid-gap: 20px;
+	overflow-y: scroll;
 }
 
 .mediaPresent {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
 }
 
 .mediaPresent__iframe {
-  width: 100%;
-  min-height: 16em;
+	width: 100%;
+	min-height: 16em;
 }
 
 .mediaPresent__link {
-  margin-top: 15px;
-  color: rgb(255, 255, 255);
-  height: 50px;
-  overflow: hidden;
+	margin-top: 15px;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
 }
 
 .mediaPresent__link:hover {
-  color: rgb(243, 156, 18);
+	color: rgb(243, 156, 18);
+}
+
+.sub_button {
+	margin-top: 0.1rem;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	text-align: center;
+}
+
+.sub_button:hover {
+	color: rgb(243, 156, 18);
 }
 
 .cover {
-  position: relative;
-  background: 0% 0% / cover;
+	position: relative;
+	background: 0% 0% / cover;
 }
 
 .cover__play {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  cursor: pointer;
-  font-size: 4em;
-  color: rgb(0, 0, 0, 0.8);
-  transition: color 0.1s;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	cursor: pointer;
+	font-size: 4em;
+	color: rgb(0, 0, 0, 0.8);
+	transition: color 0.1s;
 }
 
 .cover__play:hover {
-  color: rgb(255, 0, 0);
+	color: rgb(255, 0, 0);
 }
 
 /* contact section */
 
 .main__subtext {
-  margin-top: 30px;
-  max-width: 700px;
+	margin-top: 30px;
+	max-width: 700px;
 }
 
 .contact__form {
-  max-width: 350px;
-  margin-top: 40px;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  color: rgb(132, 132, 132);
-  text-align: left;
-  position: relative;
-  width: 330px;
+	max-width: 350px;
+	margin-top: 40px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	color: rgb(132, 132, 132);
+	text-align: left;
+	position: relative;
+	width: 330px;
 }
 
 .contact__input {
-  display: block;
-  margin-bottom: 20px;
-  padding-left: 35px;
-  width: 295px;
-  text-transform: capitalize;
-  background-color: rgb(32, 32, 32, 0.7);
-  height: 40px;
+	display: block;
+	margin-bottom: 20px;
+	padding-left: 35px;
+	width: 295px;
+	text-transform: capitalize;
+	background-color: rgb(32, 32, 32, 0.7);
+	height: 40px;
 }
 
 .contact__textarea {
-  background-color: rgb(32, 32, 32, 0.7);
-  height: 171px;
-  width: 310px;
-  padding: 10px;
+	background-color: rgb(32, 32, 32, 0.7);
+	height: 171px;
+	width: 310px;
+	padding: 10px;
 }
 
 .contact__input__icon {
-  position: absolute;
-  transform: translateY(-50%);
-  margin: 20px 10px 0 10px;
+	position: absolute;
+	transform: translateY(-50%);
+	margin: 20px 10px 0 10px;
 }
 
 /* Publications section */
 
 .publications__container {
-  overflow-y: scroll;
+	overflow-y: scroll;
 }
 
 .publication {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 95%;
-  margin: 15px 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 95%;
+	margin: 15px 0;
 }
 
 .publication__paragraph {
-  width: 80%;
+	width: 80%;
+	padding-left: 0.5rem;
 }
 
 .publication__span {
-  margin-right: 3px;
+	margin-right: 3px;
 }
 
 .publication__year {
-  font-weight: 800;
-  color: rgb(243, 156, 18, 0.5);
+	font-weight: 800;
+	color: rgb(243, 156, 18, 0.5);
 }
 
 .publication__journal__link {
-  text-decoration: underline;
-  transition: all 0.2s;
+	text-decoration: underline;
+	transition: all 0.2s;
 }
 
 .publication__journal__link:hover {
-  color: rgb(243, 156, 18, 0.5);
+	color: rgb(243, 156, 18, 0.5);
 }
 
 .publication__line {
-  width: 80%;
-  height: 1px;
-  margin: 15px 15% 10px 5%;
-  background-color: rgb(32, 32, 32);
+	width: 80%;
+	height: 1px;
+	margin: 15px 15% 10px 5%;
+	background-color: rgb(32, 32, 32);
 }
