@@ -188,8 +188,10 @@ function createPublication(element) {
 // filling Publications container with publications
 document.addEventListener("DOMContentLoaded", () => {
 	getPublications().then(publicationsArray => {
-		publicationsArray.forEach(element => {
-			createPublication(element);
-		});
+		publicationsArray
+			.filter(publication => publication.hide !== true)
+			.forEach(element => {
+				createPublication(element);
+			});
 	});
 });

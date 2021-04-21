@@ -214,7 +214,7 @@
 		},
 		{
 			"coAuthors": "Igor Fedyukin.",
-			"title": "Sobiraemost' podushnoj podati v seredine XVIII v.: k voprosu ob jeffektivnosti gosudarstvennogo apparata v Rossii v istoricheskoj perspektive. (Collecting Poll Tax in Mid-Eighteenth Century: Assessing the Effectiveness of Russian State Apparatus in Historical Perspective).",
+			"title": "Собираемость подушной подати в середине XVIII в.: к вопросу об эффективности государственного аппарата в России в исторической переспективе. (Collecting Poll Tax in Mid-Eighteenth Century: Assessing the Effectiveness of Russian State Apparatus in Historical Perspective).",
 			"journal": "Ekonomicheskaja istorija: Ezhegodnik.",
 			"year": "2014",
 			"rest": "P. 89-127.",
@@ -234,7 +234,7 @@
 		},
 		{
 			"coAuthors": "",
-			"title": "Pereselenie rjazanskih dvorjan v Simbirskuju guberniju v 40-50h gg. XIX v. (Relocation of the poorest nobility from Ryasan to Simbirsk region in 1840-1850s).",
+			"title": "Переселение рязанских дворян в Симбирскую губернию в 40-50–х гг. XIX в. (Relocation of the poorest nobility from Ryasan to Simbirsk region in 1840-1850s).",
 			"journal": "Izvestija Samarskogo nauchnogo centra Rossijskoj Akademii Nauk.",
 			"year": "2010",
 			"rest": "Vol. 12. № 6. P. 35-40.",
@@ -244,7 +244,7 @@
 		},
 		{
 			"coAuthors": "",
-			"title": "Nachalo novogo XIX veka v russkoj provincii: vzgljad sovremennikov. (The beginning of the 19th century in Russian province: the perception of contemporaries).",
+			"title": "Начало нового 19 века в русской провинции: взгляд современников. (The beginning of the 19th century in Russian province: the perception of contemporaries).",
 			"journal": "Izobretenie veka. Problemy i modeli vremeni v Rossii i Evrope XIX stoletija.",
 			"year": "2013",
 			"rest": "P. 85-96.",
@@ -325,7 +325,8 @@
 			"year": "2015",
 			"rest": "Moscow.",
 			"journalLink": "https://www.ranepa.ru/eng/",
-			"fileLink": "./docs/Taxes and Budget Information.pdf"
+			"fileLink": "./docs/Taxes and Budget Information.pdf",
+			"hide": true
 		},
 		{
 			"coAuthors": "Aleksandr Kamenskii.",
@@ -343,7 +344,8 @@
 			"year": "2016",
 			"rest": "Moscow.",
 			"journalLink": "https://hist.hse.ru/en/news/176354565.html",
-			"fileLink": "./docs/Understanding_economic_growth_and_develo.pdf"
+			"fileLink": "./docs/Understanding_economic_growth_and_develo.pdf",
+			"hide": true
 		},
 		{
 			"coAuthors": "",
@@ -515,7 +517,8 @@
 			"year": "2014",
 			"rest": "Moscow.",
 			"journalLink": "https://www.ranepa.ru/eng/",
-			"fileLink": "./docs/Местные агенты.pdf"
+			"fileLink": "./docs/Местные агенты.pdf",
+			"hide": true
 		},
 		{
 			"coAuthors": "Boris Orehov.",
