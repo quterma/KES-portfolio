@@ -1,5 +1,6 @@
 body {
 	background-color: rgba(0, 0, 0, 0.8);
+	min-width: 340px;
 }
 
 .wrapper {
@@ -126,14 +127,12 @@ body {
 /* About Me section */
 
 .aboutme__photo__container {
-	margin-top: 40px;
-	margin-bottom: 40px;
 	display: inline-block;
 	position: relative;
 }
 
 .aboutme__photo {
-	width: 210px;
+	min-width: 210px;
 }
 
 .aboutme__photo__caption {
@@ -149,11 +148,10 @@ body {
 }
 
 .aboutme__info {
-	display: inline-block;
 	vertical-align: top;
-	width: 400px;
-	margin-top: 40px;
-	margin-left: 28px;
+	max-width: 400px;
+	padding-left: 24px;
+	align-self: flex-end;
 }
 
 .common__text {
@@ -170,7 +168,6 @@ body {
 	color: rgb(243, 156, 18);
 	text-transform: uppercase;
 	line-height: 1.5;
-	margin-top: 38px;
 }
 
 .aboutme__citation__author {
@@ -178,7 +175,7 @@ body {
 	font-size: 16px;
 	color: rgb(255, 255, 255, 0.7);
 	line-height: 1.5;
-	margin-top: 5px;
+	margin: 5px 0 16px 0;
 }
 
 .bold {
@@ -356,4 +353,11 @@ body {
 	height: 1px;
 	margin: 15px 15% 10px 5%;
 	background-color: rgb(32, 32, 32);
+}
+
+/* new styling */
+
+.photo-text-container {
+	display: flex;
+	padding: 20px 0;
 }

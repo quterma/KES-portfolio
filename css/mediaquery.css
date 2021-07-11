@@ -1,6 +1,14 @@
-/* Mobile Phones Portrait */
 @media screen 
-  and (max-width: 700px)
+  and (max-width: 1120px)
+  {
+    .aboutme__citation {
+      font-size: 14px;
+    }
+  }
+
+
+@media screen 
+  and (max-width: 968px)
   /* and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)  */
@@ -57,7 +65,7 @@
 
   .main {
     margin-top: 10px;
-    padding: 0 5px;
+    padding: 0 10px;
     height: unset;
     width: 100vw;
   }
@@ -72,3 +80,35 @@
 
 }
 
+@media screen 
+  and (max-width: 440px)
+  {
+    .rotate {
+      transform: rotate(-90deg);
+    }
+
+    .publication {
+      width: 100%;
+
+    }
+
+    .publication__paragraph {
+      width: 95%;
+    }
+
+    .photo-text-container {
+      flex-direction: column;
+    }
+
+    .aboutme__info {
+      vertical-align: top;
+      max-width: 400px;
+      padding-left: 0;
+      align-self: center;
+      padding-top: 16px;
+    }
+
+    .main {
+      padding-bottom: 16px;
+    }
+  }

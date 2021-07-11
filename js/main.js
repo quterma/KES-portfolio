@@ -1,42 +1,42 @@
 // aboutme photo caption
-const mainPhoto = document.getElementById("aboutmePhoto");
-const mainPhotoCaption = document.getElementById("aboutmePhotoCaption");
+const mainPhoto = document.getElementById('aboutmePhoto');
+const mainPhotoCaption = document.getElementById('aboutmePhotoCaption');
 if (mainPhoto) {
-	mainPhoto.addEventListener("mouseover", event => {
-		mainPhotoCaption.style.opacity = "1";
+	mainPhoto.addEventListener('mouseover', (event) => {
+		mainPhotoCaption.style.opacity = '1';
 	});
-	mainPhoto.addEventListener("mouseout", event => {
-		mainPhotoCaption.style.opacity = "0";
+	mainPhoto.addEventListener('mouseout', (event) => {
+		mainPhotoCaption.style.opacity = '0';
 	});
 }
 
 // research_gate icon hover
-const rgIconImage = document.getElementById("rgIcon");
+const rgIconImage = document.getElementById('rgIcon');
 if (rgIconImage) {
-	rgIconImage.addEventListener("mouseover", event => {
-		rgIconImage.src = "./images/rg_yellow.png";
+	rgIconImage.addEventListener('mouseover', (event) => {
+		rgIconImage.src = './images/rg_yellow.png';
 	});
-	rgIconImage.addEventListener("mouseout", event => {
-		rgIconImage.src = "./images/rg.png";
+	rgIconImage.addEventListener('mouseout', (event) => {
+		rgIconImage.src = './images/rg.png';
 	});
 }
 
 // device drop down menu
-const deviceDropDownButton = document.querySelector("#deviceDropDownButton");
-const deviceDropDownMenu = document.querySelector(".nav");
-deviceDropDownButton.addEventListener("click", event => {
-	if (deviceDropDownMenu.style.display === "none" || !deviceDropDownMenu.style.display) {
-		deviceDropDownMenu.style.display = "block";
-		deviceDropDownButton.classList.add("nav__item--active");
+const deviceDropDownButton = document.querySelector('#deviceDropDownButton');
+const deviceDropDownMenu = document.querySelector('.nav');
+deviceDropDownButton.addEventListener('click', (event) => {
+	if (deviceDropDownMenu.style.display === 'none' || !deviceDropDownMenu.style.display) {
+		deviceDropDownMenu.style.display = 'block';
+		deviceDropDownButton.classList.add('nav__item--active');
 	} else {
-		deviceDropDownMenu.style.display = "none";
-		deviceDropDownButton.classList.remove("nav__item--active");
+		deviceDropDownMenu.style.display = 'none';
+		deviceDropDownButton.classList.remove('nav__item--active');
 	}
 });
 
 // getting MediaPresents from JSON
 async function getMediaPresents() {
-	const result = await fetch("./js/KES.json");
+	const result = await fetch('./js/KES.json');
 	const data = await result.json();
 	const mediaPresents = data.mediaPresents;
 	function compare(a, b) {
@@ -56,16 +56,16 @@ async function getMediaPresents() {
 
 // create one mediaPresent
 function createMediaPresent(present) {
-	const newDiv = document.createElement("div");
-	const mediaPresentsContainer = document.querySelector(".mediaPresents__container");
-	const articlesContainer = document.querySelector(".articles__container");
+	const newDiv = document.createElement('div');
+	const mediaPresentsContainer = document.querySelector('.mediaPresents__container');
+	const articlesContainer = document.querySelector('.articles__container');
 
 	if (mediaPresentsContainer) {
 		if (present.isVideo) {
 			mediaPresentsContainer.append(newDiv);
-			const subtitles = present.subtitles
-				? `<span class="sub_button" type="submit" onclick="window.open('${present.subtitles}')">SUBTITLES</span>`
-				: "";
+			const subtitles = present.subtitles ?
+				`<span class="sub_button" type="submit" onclick="window.open('${present.subtitles}')">SUBTITLES</span>` :
+				'';
 			newDiv.outerHTML = `
       <div class="mediaPresent">
         <div class="mediaPresent__iframe cover" style="background-image: url(${present.coverImageURL});">
@@ -95,9 +95,9 @@ function createMediaPresent(present) {
 
 // filling mediaPresents__container with media presents
 let mediaArray;
-document.addEventListener("DOMContentLoaded", () => {
-	getMediaPresents().then(mediaPresentsArray => {
-		mediaPresentsArray.forEach(element => {
+document.addEventListener('DOMContentLoaded', () => {
+	getMediaPresents().then((mediaPresentsArray) => {
+		mediaPresentsArray.forEach((element) => {
 			createMediaPresent(element);
 		});
 		mediaArray = mediaPresentsArray;
@@ -117,7 +117,7 @@ function uncoverMediaIframe(button) {
 
 // getting Publications from JSON
 async function getPublications() {
-	const result = await fetch("./js/KES.json");
+	const result = await fetch('./js/KES.json');
 	const data = await result.json();
 	const publications = data.publications;
 	function compare(a, b) {
@@ -137,28 +137,28 @@ async function getPublications() {
 
 // create one Publication
 function createPublication(element) {
-	const newDiv = document.createElement("div");
-	const publicationsContainer = document.querySelector(".publications__container");
+	const newDiv = document.createElement('div');
+	const publicationsContainer = document.querySelector('.publications__container');
 
-	const reviewContainer = document.querySelector(".js_review__container");
-	const workingContainer = document.querySelector(".js_working__container");
-	const russianContainer = document.querySelector(".js_russian__container");
-	const chaptersContainer = document.querySelector(".js_chapters__container");
-	const otherContainer = document.querySelector(".js_other__container");
+	const reviewContainer = document.querySelector('.js_review__container');
+	const workingContainer = document.querySelector('.js_working__container');
+	const russianContainer = document.querySelector('.js_russian__container');
+	const chaptersContainer = document.querySelector('.js_chapters__container');
+	const otherContainer = document.querySelector('.js_other__container');
 
 	if (!publicationsContainer) return;
 
-	const chooseContainer = type => {
+	const chooseContainer = (type) => {
 		switch (type) {
-			case "review":
+			case 'review':
 				return reviewContainer;
-			case "working":
+			case 'working':
 				return workingContainer;
-			case "chapters":
+			case 'chapters':
 				return chaptersContainer;
-			case "russian":
+			case 'russian':
 				return russianContainer;
-			case "other":
+			case 'other':
 				return otherContainer;
 			default:
 				return otherContainer;
@@ -167,7 +167,7 @@ function createPublication(element) {
 
 	const choosenContainer = chooseContainer(element.type);
 	choosenContainer.append(newDiv);
-	const authors = element.coAuthors ? "with " + element.coAuthors : "";
+	const authors = element.coAuthors ? `with ${element.coAuthors}` : '';
 	newDiv.outerHTML = `
       <div class="publication">
         <p class="publication__paragraph common__text">
@@ -179,18 +179,18 @@ function createPublication(element) {
           <span class="publication__span publication__rest">${element.rest}</span>
           <span class="publication__span publication__author">${authors}</span>
         </p>
-        <button type="submit" onclick="window.open('${element.fileLink}')" class="button">Read</button>
+        <button type="submit" onclick="window.open('${element.fileLink}')" class="button rotate">Read</button>
       </div>
       <div class="publication__line"></div>
     `;
 }
 
 // filling Publications container with publications
-document.addEventListener("DOMContentLoaded", () => {
-	getPublications().then(publicationsArray => {
+document.addEventListener('DOMContentLoaded', () => {
+	getPublications().then((publicationsArray) => {
 		publicationsArray
-			.filter(publication => publication.hide !== true)
-			.forEach(element => {
+			.filter((publication) => publication.hide !== true)
+			.forEach((element) => {
 				createPublication(element);
 			});
 	});

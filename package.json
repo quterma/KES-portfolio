@@ -1,0 +1,23 @@
+{
+	"name": "kes",
+	"version": "1.0.0",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"lint": "eslint .",
+		"lint:fix": "eslint --fix ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/quterma/KES-portfolio"
+	},
+	"author": "Daniil_Shapiro",
+	"license": "ISC",
+	"devDependencies": {
+		"editorconfig": "^0.15.3",
+		"eslint": "^7.23.0",
+		"eslint-config-prettier": "^8.1.0",
+		"eslint-plugin-prettier": "^3.3.1",
+		"prettier": "^2.2.1"
+	}
+}
