@@ -8,6 +8,40 @@
 			"isVideo": true,
 			"year": "2020"
 		},
+
+		{
+			"captionRussianName": "«Дворянские деньги. Серия 1 'Наследство и приданое'» - Телеканал Культура.",
+			"captionLink": "https://www.youtube.com/watch?v=1IXojWSEc7Y",
+			"coverImageURL": "../images/dvor_dengi_1.jpg",
+			"iframeURL": "https://www.youtube.com/embed/1IXojWSEc7Y",
+			"isVideo": true,
+			"year": "2020"
+		},
+		{
+			"captionRussianName": "«Дворянские деньги. Серия 2 'Траты и кредиты'» - Телеканал Культура.",
+			"captionLink": "https://www.youtube.com/watch?v=1K-8qcWb-dE",
+			"coverImageURL": "../images/dvor_dengi_2.jpg",
+			"iframeURL": "https://www.youtube.com/embed/1K-8qcWb-dE",
+			"isVideo": true,
+			"year": "2020"
+		},
+		{
+			"captionRussianName": "«Дворянские деньги. Серия 3 'Разорение, экономия и бедные родственники'» - Телеканал Культура.",
+			"captionLink": "https://www.youtube.com/watch?v=nKeWASRu-sk",
+			"coverImageURL": "../images/dvor_dengi_3.jpg",
+			"iframeURL": "https://www.youtube.com/embed/nKeWASRu-sk",
+			"isVideo": true,
+			"year": "2020"
+		},
+		{
+			"captionRussianName": "«Дворянские деньги. Серия 4 'Аферы и карты'» - Телеканал Культура.",
+			"captionLink": "https://www.youtube.com/watch?v=9vx0GNKjw7Y",
+			"coverImageURL": "../images/dvor_dengi_4.jpg",
+			"iframeURL": "https://www.youtube.com/embed/9vx0GNKjw7Y",
+			"isVideo": true,
+			"year": "2020"
+		},
+
 		{
 			"captionRussianName": "«Роскошная жизнь русских дворян» - проект «Arzamas».",
 			"captionLink": "https://arzamas.academy/courses/35/1",
@@ -88,6 +122,14 @@
 			"iframeURL": "https://www.youtube.com/embed/wGuZDqANcLs",
 			"isVideo": true,
 			"year": "2015"
+		},
+		{
+			"captionRussianName": "Interview for University of Southern Denmark».",
+			"captionLink": "https://www.sdu.dk/en/om_sdu/fakulteterne/samfundsvidenskab/forskning/talent-track/fellows/fellows/elena-korchmina",
+			"coverImageURL": "../images/KES-SDU-1.jpg",
+			"iframeURL": "https://www.sdu.dk/en/om_sdu/fakulteterne/samfundsvidenskab/forskning/talent-track/fellows/fellows/elena-korchmina",
+			"isVideo": false,
+			"year": "2021"
 		},
 		{
 			"captionRussianName": "«Сколько это стоило: перевозка грузов и почты в России во второй половине XVIII — начале XIX века» - интервью «Arzamas».",
@@ -298,6 +340,16 @@
 			"rest": "№ 144.",
 			"journalLink": "http://www.ehes.org/working_papers.html",
 			"fileLink": "./docs/Peer_Pressure_The_Puzzle_of_Tax_Complian.pdf",
+			"type": "working"
+		},
+		{
+			"coAuthors": "Broadberry, S.",
+			"title": "Russian economic growth during the eighteenth century.",
+			"journal": "Oxford Economic and Social History Working Papers.",
+			"year": "2021",
+			"rest": "№ 192.",
+			"journalLink": "https://ora.ox.ac.uk/objects/uuid:1f6950b6-f90d-41b4-ae4b-911b345f8804",
+			"fileLink": "./docs/192_Broadberry and Korchmina Russian economic growth.pdf",
 			"type": "working"
 		},
 		{
