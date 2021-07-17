@@ -63,9 +63,9 @@ function createMediaPresent(present) {
 	if (mediaPresentsContainer) {
 		if (present.isVideo) {
 			mediaPresentsContainer.append(newDiv);
-			const subtitles = present.subtitles ?
-				`<span class="sub_button" type="submit" onclick="window.open('${present.subtitles}')">SUBTITLES</span>` :
-				'';
+			const subtitles = present.subtitles
+				? `<span class="sub_button" type="submit" onclick="window.open('${present.subtitles}')">SUBTITLES</span>`
+				: '';
 			newDiv.outerHTML = `
       <div class="mediaPresent">
         <div class="mediaPresent__iframe cover" style="background-image: url(${present.coverImageURL});">
@@ -168,12 +168,15 @@ function createPublication(element) {
 	const choosenContainer = chooseContainer(element.type);
 	choosenContainer.append(newDiv);
 	const authors = element.coAuthors ? `with ${element.coAuthors}` : '';
+	const journalLink = element.journalLink
+		? `<a href=${element.journalLink} class="publication__journal__link" target = "_blank" >${element.journal}</a>`
+		: `<span class=".publication__journal__empty-link" >${element.journal}</span>`;
 	newDiv.outerHTML = `
       <div class="publication">
         <p class="publication__paragraph common__text">
           <span class="publication__span publication__title">${element.title}</span>
           <span class="publication__span publication__journal italic">
-            <a href=${element.journalLink} class="publication__journal__link" target = "_blank" >${element.journal}</a>
+						${journalLink}
           </span>
           <span class="publication__span publication__year">${element.year}.</span>
           <span class="publication__span publication__rest">${element.rest}</span>

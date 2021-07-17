@@ -107,4 +107,9 @@
 	.main {
 		padding-bottom: 16px;
 	}
+
+	.aboutme__photo {
+		min-width: none;
+		width: 50%;
+	}
 }

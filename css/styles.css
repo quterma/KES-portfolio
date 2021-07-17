@@ -28,7 +28,7 @@ body {
 }
 
 .sidebar__logo {
-	font-family: "Yellowtail", cursive;
+	font-family: 'Yellowtail', cursive;
 	font-size: 40px;
 	color: rgb(243, 156, 18);
 	margin-left: -2px;
@@ -39,7 +39,7 @@ body {
 }
 
 .sidebar__sublogo {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	letter-spacing: 0.05em;
 	color: rgb(255, 255, 255, 0.7);
@@ -47,7 +47,7 @@ body {
 }
 
 .sidebar__title {
-	font-family: "Oswald", sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
 	color: rgb(255, 255, 255);
 	text-transform: uppercase;
@@ -110,14 +110,14 @@ body {
 }
 
 .main__title {
-	font-family: "Oswald", sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 48px;
 	color: rgb(243, 156, 18);
 	text-transform: uppercase;
 }
 
 .main__subtitle {
-	font-family: "Oswald", sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 32px;
 	color: rgb(255, 255, 255, 0.8);
 	text-transform: uppercase;
@@ -136,7 +136,7 @@ body {
 }
 
 .aboutme__photo__caption {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 10px;
 	color: rgb(255, 255, 255, 0.4);
 	position: absolute;
@@ -155,7 +155,7 @@ body {
 }
 
 .common__text {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	color: rgb(255, 255, 255, 0.7);
 	line-height: 1.5;
@@ -163,7 +163,7 @@ body {
 }
 
 .aboutme__citation {
-	font-family: "Oswald", sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
 	color: rgb(243, 156, 18);
 	text-transform: uppercase;
@@ -171,7 +171,7 @@ body {
 }
 
 .aboutme__citation__author {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	color: rgb(255, 255, 255, 0.7);
 	line-height: 1.5;
@@ -195,7 +195,7 @@ body {
 	cursor: pointer;
 	transition: all 0.2s;
 	text-decoration: none;
-	font-family: "Oswald", sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -280,7 +280,7 @@ body {
 .contact__form {
 	max-width: 350px;
 	margin-top: 40px;
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	color: rgb(132, 132, 132);
 	text-align: left;
@@ -339,13 +339,15 @@ body {
 	color: rgb(243, 156, 18, 0.5);
 }
 
-.publication__journal__link {
+.publication__journal__link,
+.publication__journal__empty-link {
 	text-decoration: underline;
 	transition: all 0.2s;
 }
 
-.publication__journal__link:hover {
-	color: rgb(243, 156, 18, 0.5);
+.publication__journal__empty-link {
+	text-decoration: underline;
+	transition: all 0.2s;
 }
 
 .publication__line {

@@ -8,6 +8,14 @@
 			"isVideo": true,
 			"year": "2020"
 		},
+		{
+			"captionRussianName": "Умом Россию понимать / Русское дворянство: миф и реальность - Эхо Москвы.",
+			"captionLink": "https://www.youtube.com/watch?v=GYnEYNkHz6U",
+			"coverImageURL": "../images/umom-rossiu.jpg",
+			"iframeURL": "https://www.youtube.com/embed/GYnEYNkHz6U",
+			"isVideo": true,
+			"year": "2021"
+		},
 
 		{
 			"captionRussianName": "«Дворянские деньги. Серия 1 'Наследство и приданое'» - Телеканал Культура.",
@@ -124,29 +132,80 @@
 			"year": "2015"
 		},
 		{
-			"captionRussianName": "Interview for University of Southern Denmark».",
+			"captionRussianName": "The Talent Track interview for University of Southern Denmark.",
 			"captionLink": "https://www.sdu.dk/en/om_sdu/fakulteterne/samfundsvidenskab/forskning/talent-track/fellows/fellows/elena-korchmina",
-			"coverImageURL": "../images/KES-SDU-1.jpg",
+			"coverImageURL": "../images/meet-the-fellows.jpg",
 			"iframeURL": "https://www.sdu.dk/en/om_sdu/fakulteterne/samfundsvidenskab/forskning/talent-track/fellows/fellows/elena-korchmina",
 			"isVideo": false,
 			"year": "2021"
 		},
 		{
-			"captionRussianName": "«Сколько это стоило: перевозка грузов и почты в России во второй половине XVIII — начале XIX века» - интервью «Arzamas».",
+			"captionRussianName": "«Сколько это стоило: перевозка грузов и почты в России во второй половине XVIII — начале XIX века» - проект «Исторический багаж».",
 			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2228",
-			"coverImageURL": "../images/scolko-eto-stoilo.jpg",
+			"coverImageURL": "../images/bagaz-1.jpg",
 			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2228",
 			"isVideo": false,
 			"year": "2021"
 		},
 		{
-			"captionRussianName": "«Зачем везти муравьиные яйца из Брянска в Москву?» - интервью «Arzamas».",
+			"captionRussianName": "«Сколько это стоило: последствия войны 1812 года для экономики России» - проект «Исторический багаж».",
+			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2325",
+			"coverImageURL": "../images/bagaz-2.jpg",
+			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2325",
+			"isVideo": false,
+			"year": "2021"
+		},
+		{
+			"captionRussianName": "«Экономическая повседневность большой русской усадьбы: село Влахернское при князьях Голицыных в середине XVIII века» - проект «Исторический багаж».",
+			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2187",
+			"coverImageURL": "../images/bagaz-3.jpg",
+			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2187",
+			"isVideo": false,
+			"year": "2021"
+		},
+
+		{
+			"captionRussianName": "«Список Forbes XVIII века» - в рамках курса «Блеск и нищета Российской империи» проекта «Arzamas».",
+			"captionLink": "https://arzamas.academy/materials/1015",
+			"coverImageURL": "../images/Arzamas-material-1.jpg",
+			"iframeURL": "https://arzamas.academy/materials/1015",
+			"isVideo": false,
+			"year": "2016"
+		},
+		{
+			"captionRussianName": "«Часто задаваемые вопросы о деньгах XVIII века» - в рамках курса «Блеск и нищета Российской империи» проекта «Arzamas».",
+			"captionLink": "https://arzamas.academy/materials/1020",
+			"coverImageURL": "../images/Arzamas-material-2.jpg",
+			"iframeURL": "https://arzamas.academy/materials/1020",
+			"isVideo": false,
+			"year": "2016"
+		},
+		{
+			"captionRussianName": "«Краткая история денег в России» - в рамках курса «Блеск и нищета Российской империи» проекта «Arzamas».",
+			"captionLink": "https://arzamas.academy/materials/1014",
+			"coverImageURL": "../images/Arzamas-material-3.jpg",
+			"iframeURL": "https://arzamas.academy/materials/1014",
+			"isVideo": false,
+			"year": "2016"
+		},
+		{
+			"captionRussianName": "«Зачем везти муравьиные яйца из Брянска в Москву?» - в рамках курса «Блеск и нищета Российской империи» проекта «Arzamas».",
 			"captionLink": "https://arzamas.academy/materials/998",
-			"coverImageURL": "../images/KES-Arzamas-anteggs.jpg",
+			"coverImageURL": "../images/Arzamas-material-4.jpg",
 			"iframeURL": "https://arzamas.academy/materials/998",
 			"isVideo": false,
 			"year": "2016"
 		},
+
+		{
+			"captionRussianName": "Карта «Недоимки по подушной подати с 1724 по 1740 гг. в России (относительные показатели)»",
+			"captionLink": "http://nevmenandr.net/pages/fiscmap.php",
+			"coverImageURL": "../images/karta-1.jpg",
+			"iframeURL": "http://nevmenandr.net/pages/fiscmap.php",
+			"isVideo": false,
+			"year": "2013"
+		},
+
 		{
 			"captionRussianName": "«Тотальная коррупция в России — это миф» - интервью «Секрет Фирмы».",
 			"captionLink": "https://secretmag.ru/cases/interview/istorik-elena-korchmina-totalnaya-korrupciya-v-rossii-eto-mif.htm",
@@ -177,7 +236,7 @@
 		{
 			"coAuthors": "Mikhail Kiselev.",
 			"title": "‘Luxury beyond morals’: the rise and transformation of the concept in 18th century Russia",
-			"journal": "Journal of the History of Economic Thought",
+			"journal": "forthcoming in Journal of the History of Economic Thought",
 			"year": "2021",
 			"rest": "",
 			"journalLink": "https://osf.io/fbvwk/",
@@ -198,9 +257,9 @@
 			"coAuthors": "Igor Fedyukin.",
 			"title": "Extralegal payments to state officials in Russia, 1750s–1830s: assessing the burden of corruption.",
 			"journal": "Economic History Review.",
-			"year": "2018",
+			"year": "2019",
 			"rest": "Vol. 72. P. 156-181.",
-			"journalLink": "https://www.ehs.org.uk/app/journal/article/10.1111/ehr.12666/abstract?issue=10.1111/ehr.2019.72.issue-1",
+			"journalLink": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.12666",
 			"fileLink": "./docs/Extralegal_payments_to_state_officials_i.pdf",
 			"type": "review"
 		},
@@ -297,16 +356,16 @@
 		{
 			"coAuthors": "Paul Sharp.",
 			"title": "Denmark and Russia: What can we learn from the historical comparison of two great Arctic agricultural empires?",
-			"journal": "EHES Working Paper.",
-			"year": "2020",
-			"rest": "No. 187.",
-			"journalLink": "http://www.ehes.org/working_papers.html",
+			"journal": "Russian Journal of Economics.",
+			"year": "2021",
+			"rest": "No. 7(2).",
+			"journalLink": "https://rujec.org/article/49151/",
 			"fileLink": "./docs/Denmark_and_Russia_What_can_we_learn_fro.pdf",
 			"type": "review"
 		},
 		{
 			"coAuthors": "",
-			"title": "Поденные заработки чернорабочих и цены в Москве и Тобольске в 18 веке. (Daily wages of the construction labourers and prices in Moscow and Tobolsk in the 18th century).",
+			"title": "Поденные заработки чернорабочих и цены в Москве и Тобольске в 18 веке. (Daily wages of construction workers and prices in Moscow and Tobolsk in the 18th century).",
 			"journal": "Уральский исторический вестник.",
 			"year": "2020",
 			"rest": "№ 1(66).",
@@ -333,17 +392,17 @@
 			"fileLink": "./docs/Что лучше для крестьянина.pdf"
 		},
 		{
-			"coAuthors": "Paul Sharp.",
-			"title": "Peer Pressure: The Puzzle of Tax Compliance in the Early Nineteenth-Century Russia.",
-			"journal": "EHES Working Paper.",
-			"year": "2018",
-			"rest": "№ 144.",
-			"journalLink": "http://www.ehes.org/working_papers.html",
+			"coAuthors": "",
+			"title": "Peer Pressure: The Puzzle of Tax Compliance of Aristocrats in Early 19th-Century Moscow.",
+			"journal": "accepted in Economic History Review",
+			"year": "2021",
+			"rest": "Working paper version",
+			"journalLink": "",
 			"fileLink": "./docs/Peer_Pressure_The_Puzzle_of_Tax_Complian.pdf",
-			"type": "working"
+			"type": "review"
 		},
 		{
-			"coAuthors": "Broadberry, S.",
+			"coAuthors": "Broadberry, Stephen.",
 			"title": "Russian economic growth during the eighteenth century.",
 			"journal": "Oxford Economic and Social History Working Papers.",
 			"year": "2021",
@@ -371,16 +430,6 @@
 			"fileLink": "./docs/Соглашение между кредиторами.pdf"
 		},
 		{
-			"coAuthors": "Maya Lavrinovich, Igor Fedyukin.",
-			"title": "Taxes and Budget Information in Early Modern Russia: The Poll Tax in the City and the Village of the XVIII Century.",
-			"journal": "Russian Presidential Academy of National Economy and Public Administration",
-			"year": "2015",
-			"rest": "Moscow.",
-			"journalLink": "https://www.ranepa.ru/eng/",
-			"fileLink": "./docs/Taxes and Budget Information.pdf",
-			"hide": true
-		},
-		{
 			"coAuthors": "Aleksandr Kamenskii.",
 			"title": "Реформирование экономики (глава 1.4).",
 			"journal": "In Book: Реформы в России с древнейших времен до конца ХХ в. М: Политическая энциклопедия.",
@@ -388,16 +437,6 @@
 			"rest": "Vol. 2.",
 			"journalLink": "https://rosspen.su/reformy-v-rossii-s-drevnejshih-vremen-do-kontsa-hh-v-v-4-t-t-2-xviii-pervaya-polovina-xix-v/",
 			"fileLink": "./docs/Реформирование экономики.pdf"
-		},
-		{
-			"coAuthors": "",
-			"title": "Understanding economic growth and development in Central and Eastern Europe.",
-			"journal": "Workshop in Economic History and Development.",
-			"year": "2016",
-			"rest": "Moscow.",
-			"journalLink": "https://hist.hse.ru/en/news/176354565.html",
-			"fileLink": "./docs/Understanding_economic_growth_and_develo.pdf",
-			"hide": true
 		},
 		{
 			"coAuthors": "",
@@ -499,22 +538,13 @@
 			"fileLink": "./docs/Как потомки К.Ф. Миллера в Рязани жили.pdf"
 		},
 		{
-			"coAuthors": "Boris Orehov.",
+			"coAuthors": "Boris Orekhov.",
 			"title": "Использование интерактивных карт при изучении истории налогов в России XVIII в.",
 			"journal": "Информационный бюллетень ассоциации История и компьютер.",
 			"year": "2014",
 			"rest": "№ 42. P. 138-139",
 			"journalLink": "https://www.elibrary.ru/item.asp?id=22837324",
 			"fileLink": ""
-		},
-		{
-			"coAuthors": "Igor Fedyukin.",
-			"title": "Routine corruption in Russia during the reigns of Catherine II and Alexander I.",
-			"journal": "Higher School of Economics Research Paper.",
-			"year": "2016",
-			"rest": "№ WP BRP 136/HUM/2016.",
-			"journalLink": "https://publications.hse.ru/preprints/198106111",
-			"fileLink": "./docs/routine corruption.pdf"
 		},
 		{
 			"coAuthors": "",
@@ -545,15 +575,6 @@
 			"type": "russian"
 		},
 		{
-			"coAuthors": "",
-			"title": "The Circulation of Information About the Poll Tax Revenues as an Indicator of Russian Empire Undergoverness in the in the 18th Century.",
-			"journal": "Higher School of Economics Research Paper.",
-			"year": "2016",
-			"rest": "№ WP BRP 137/HUM/2016.",
-			"journalLink": "https://publications.hse.ru/preprints/197981757",
-			"fileLink": "./docs/The Circulation of Information.pdf"
-		},
-		{
 			"coAuthors": "Ilya Voskoboinikov.",
 			"title": "XVII Международный конгресс по экономической истории в Киото и вечные надежды на улучшение климата в российской наук.",
 			"journal": "Ekonomicheskaja istorija: Ezhegodnik.",
@@ -563,17 +584,7 @@
 			"fileLink": ""
 		},
 		{
-			"coAuthors": "Igor Fedyukin.",
-			"title": "Местные Агенты Государства в России в Раннее Новое Время (Local Agents of the State in Russia in the Early New Age).",
-			"journal": "Russian Presidential Academy of National Economy and Public Administration.",
-			"year": "2014",
-			"rest": "Moscow.",
-			"journalLink": "https://www.ranepa.ru/eng/",
-			"fileLink": "./docs/Местные агенты.pdf",
-			"hide": true
-		},
-		{
-			"coAuthors": "Boris Orehov.",
+			"coAuthors": "Boris Orekhov.",
 			"title": "Международная конференция «Неудобное знание: социальная симптоматика и эпистемологическая рефлексия».",
 			"journal": "НЛО.",
 			"year": "2014",
