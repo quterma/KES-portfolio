@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>KES | About Me</title>
+		<title>KES | Current projects</title>
 		<link rel="stylesheet" href="./css/reset.css" />
 		<link rel="stylesheet" href="./css/styles.css" />
 		<link
@@ -28,14 +28,11 @@
 					<div class="nav__item sidebar__title"><a href="./publications.html">Publications</a></div>
 					<div class="nav__item sidebar__title"><a href="./media.html">Presentations</a></div>
 					<div class="nav__item sidebar__title"><a href="./articles.html">Media articles</a></div>
-					<div class="nav__item sidebar__title">Current projects</div>
-					<div class="nav__item sidebar__title nav__item--active margin--break">About Me</div>
+					<div class="nav__item sidebar__title nav__item--active">Current projects</div>
+					<div class="nav__item sidebar__title margin--break"><a href="./index.html">About Me</a></div>
 				</nav>
 				<h3 id="sidebarSocial" class="sidebar__title margin--break">Social</h3>
 				<div class="social">
-					<!-- <a href="https://www.facebook.com/profile.php?id=100002202837538" target="_blank" class="social__link">
-						<i class="fab fa-facebook-f social__item"></i>
-					</a> -->
 					<a href="https://www.linkedin.com/in/elena-korchmina-91320a71/" target="_blank" class="social__link">
 						<i class="fab fa-linkedin-in social__item"></i>
 					</a>
@@ -49,48 +46,58 @@
 						<i class="fab fas fa-audio-description social__item"></i>
 					</a>
 				</div>
+				<div class="sidebar__title margin--break hideble">
+					<p>You can email me at</p>
+					<p class="sidebar__email"><a href="mailto:e.korchmina@gmail.com">e.korchmina@gmail.com</a></p>
+				</div>
+				<div class="line hideble"></div>
 				<button
 					type="submit"
 					onclick="window.open('./docs/Korchmina CV 2021 April.pdf')"
-					class="button margin--break sidebar-cv"
+					class="button margin--break hideble"
 				>
 					My CV
 				</button>
 			</aside>
-			<main class="main">
-				<h1 class="main__title">Elena Korchmina</h1>
-				<h2 class="main__subtitle">I explore economic history</h2>
-				<div class="photo-text-container">
-					<div class="aboutme__photo__container">
-						<img
-							src="./images/KES.jpg"
-							alt="Фото: © Павел Александров / «Секрет Фирмы»"
-							id="aboutmePhoto"
-							class="aboutme__photo"
-						/>
-						<h3 id="aboutmePhotoCaption" class="aboutme__photo__caption">Photo: © Павел Александров<br />«Секрет Фирмы»</h3>
-					</div>
-					<div class="aboutme__info">
-						<p class="aboutme__citation">
-							"Back in 1904-1906, it amazed me on what an historical embroglio (nedorazumenie) as the Russian Empire has
-							rested."
-						</p>
-						<h4 class="aboutme__citation__author">- S.B. Veselovsky</h4>
 
-						<p class="common__text">
-							I am an Assistant Professor at the History Department at Higher School of Economics, Moscow. I research the
-							Economic History of Early Modern Europe, especially the Fiscal History of European Elites. I have a PhD in
-							Russian History and have since specialized in Russian economic history.
-						</p>
+			<main class="main">
+				<h2 class="main__subtitle">My current projects</h2>
+				<section class="current-section">
+					<div class="current-section__title">
+						<a href="https://hum.hse.ru/proj/livingstandards" target="_blank" rel="noopener noreferrer">
+							<p class="aboutme__citation hovering">
+								"Жизненные стандарты в России XVIII - первой половине XIX вв. в сравнительной перспективе"
+							</p>
+						</a>
 					</div>
-				</div>
-				<p class="common__text">
-					<span class="bold">Research Areas: </span>Economic History of Eastern Europe; Taxation; History of European
-					Nobility.
-				</p>
-				<button type="submit" onclick="window.open('./docs/Korchmina CV 2021 April.pdf')" class="button margin--break">
-					My CV
-				</button>
+					<p class="common__text">
+						<span class="bold">Objective of the project:</span>составить индексы цен и зарплат за XVIII – первую половину XIX
+						вв. по ряду регионов. На основе анализа полученных данных оценить роль крепостного права для рынка труда в
+						дореформенной России, и подготовить почву для сравнения с другими странами, в частности Данией и Испанией. Проект
+						призван решить одну из фундаментальных задач, стоящих сейчас перед экономической историей России – рассчитать
+						ключевые показатели экономического развития страны на протяжении полутора столетий.
+					</p>
+				</section>
+				<section class="current-section">
+					<div class="current-section__title">
+						<a
+							href="https://ora.ox.ac.uk/objects/uuid:1f6950b6-f90d-41b4-ae4b-911b345f8804"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<p class="aboutme__citation hovering">"Russian economic growth during the eighteenth century."</p>
+						</a>
+					</div>
+					<p class="common__text">
+						<span class="bold">Objective of the project:</span>
+						We provide estimates of economic growth at decadal frequency for Russia during the eighteenth century. Although
+						GDP per head increased between the 1690s and 1760s, this was followed by a period of negative growth between the
+						1760s and 1800s, leaving GDP per capita just 17 per cent higher at the end of the century than at its beginning.
+						Although Russia’s strong growth in large-scale industry during the eighteenth century has received much attention,
+						this was starting from a very low base. Peter the Great’s modernisation drive thus had only a small effect on the
+						economy as a whole, which remained dominated by agriculture and small-scale industry.
+					</p>
+				</section>
 			</main>
 		</div>
 		<script src="./js/main.js"></script>
