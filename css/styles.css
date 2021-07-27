@@ -186,6 +186,18 @@ body {
 	line-height: 1.5;
 }
 
+.white {
+	color: rgb(211, 200, 182);
+}
+
+.ml2 {
+	margin-left: 1rem;
+}
+
+.mt1 {
+	margin-top: 0.5rem;
+}
+
 .aboutme__citation__author {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
@@ -330,9 +342,9 @@ body {
 
 /* Publications section */
 
-.publications__container {
-	/* overflow-y: scroll; */
-}
+/* .publications__container {
+	overflow-y: scroll;
+} */
 
 .publication {
 	display: flex;
