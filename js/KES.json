@@ -8,6 +8,16 @@
 			"isVideo": true,
 			"year": "2020"
 		},
+
+		{
+			"captionRussianName": "Denmark and Russia: Why two Arctic Empires developed so differently and continue to diverge - HEDG Research Highlight - SDU.",
+			"captionLink": "https://www.youtube.com/watch?v=3f8Hp5jQmxg",
+			"coverImageURL": "../images/media-HEDG.jpg",
+			"iframeURL": "https://www.youtube.com/embed/3f8Hp5jQmxg",
+			"isVideo": true,
+			"year": "2021"
+		},
+
 		{
 			"captionRussianName": "Умом Россию понимать / Русское дворянство: миф и реальность - Эхо Москвы.",
 			"captionLink": "https://www.youtube.com/watch?v=GYnEYNkHz6U",
