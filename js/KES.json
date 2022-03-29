@@ -1,12 +1,21 @@
 {
 	"mediaPresents": [
 		{
-			"captionRussianName": "«Крестьянское хозяйство» - проект «Родина слонов».",
+			"captionRussianName": "Крестьянское хозяйство. Родина слонов.",
 			"captionLink": "https://www.youtube.com/watch?v=P_BaBlJLlAA",
 			"coverImageURL": "../images/media-kr-hoz.jpg",
 			"iframeURL": "https://www.youtube.com/embed/P_BaBlJLlAA",
 			"isVideo": true,
 			"year": "2020"
+		},
+
+  {
+			"captionRussianName": "Положение женщин в Российской империи. Часть 1. Родина слонов № 315.",
+			"captionLink": "https://www.youtube.com/watch?v=mieBFyPHO5o",
+			"coverImageURL": "../images/media-polozhenie-zhenshin.jpg",
+			"iframeURL": "https://www.youtube.com/embed/mieBFyPHO5o",
+			"isVideo": true,
+			"year": "2022"
 		},
 
 		{
@@ -101,7 +110,7 @@
 			"year": "2016"
 		},
 		{
-			"captionRussianName": "«Россия и Дания: сравнение империй» - проект «Родина слонов».",
+			"captionRussianName": "Россия и Дания: сравнение империй. Родина слонов.",
 			"captionLink": "https://www.youtube.com/watch?v=eiQgz0I_qhA",
 			"coverImageURL": "../images/media-ros-dan.jpg",
 			"iframeURL": "https://www.youtube.com/embed/eiQgz0I_qhA",
