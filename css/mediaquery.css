@@ -45,6 +45,9 @@
 		font-size: 24px;
 		color: rgb(255, 255, 255);
 		margin-left: 15px;
+
+  background-color: rgb(32, 32, 32);;
+  height: 24px;
 	}
 
 	.nav {
