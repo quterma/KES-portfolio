@@ -12,30 +12,23 @@
 			content="Elena Korchmina, Economic History, Fiscal History, European Elites, korchmina, Marie Skłodowska-Curie, Marie Curie, Taxation, History, Корчмина, экономическая история, дворяне, Мари кюри, история, налоги"
 		/>
 
-		<title>Economic history - Elena Korchmina | Presentations</title>
-		<link rel="stylesheet" href="./css/reset.css" />
-		<link rel="stylesheet" href="./css/styles.css" />
-		<link
-			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&family=Yellowtail&display=swap"
-			rel="stylesheet"
-		/>
+		<title>Economic history - Elena Korchmina | Publications</title>
 		<link
 			rel="stylesheet"
 			href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
 			integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V"
 			crossorigin="anonymous"
 		/>
-		<link rel="stylesheet" href="./css/mediaquery.css" media="screen" />
 	</head>
 	<body>
 		<div class="wrapper noselect">
 			<aside class="sidebar">
 				<h2 class="sidebar__logo">Economic history</h2>
 				<h4 class="sidebar__sublogo">Let's understand the past...</h4>
-				<i id="deviceDropDownButton" class="device__dropDownButton fas fa-bars" onfocus="this.blur()"></i>
+				<i id="deviceDropDownButton" class="device__dropDownButton fas fa-bars noselect" onfocus="this.blur()"></i>
 				<nav class="nav">
-					<div class="nav__item sidebar__title"><a href="./publications.html">Publications</a></div>
-					<div class="nav__item sidebar__title nav__item--active">Presentations</div>
+					<div class="nav__item sidebar__title nav__item--active">Publications</div>
+					<div class="nav__item sidebar__title"><a href="./media.html">Presentations</a></div>
 					<div class="nav__item sidebar__title"><a href="./articles.html">Media articles</a></div>
 					<div class="nav__item sidebar__title"><a href="./current.html">Current projects</a></div>
 					<div class="nav__item sidebar__title margin--break"><a href="./index.html">About Me</a></div>
@@ -69,10 +62,22 @@
 				>
 					My CV
 				</button>
+				<h3 class="common__text bold margin--break use">
+					I am giving free and unlicensed use of my work, but only for non-commercial and non-profit uses.
+				</h3>
 			</aside>
-
-			<main class="main mediaPresents__container"></main>
+			<main class="main publications__container">
+				<h3 class="common__text bold">Publications in Peer-reviewed Journals</h3>
+				<div class="js_review__container"></div>
+				<h3 class="common__text bold">Working Papers</h3>
+				<div class="js_working__container"></div>
+				<h3 class="common__text bold">Publications in Russian Refereed Journals</h3>
+				<div class="js_russian__container"></div>
+				<h3 class="common__text bold">Book Chapters</h3>
+				<div class="js_chapters__container"></div>
+				<h3 class="common__text bold">Other Publications</h3>
+				<div class="js_other__container"></div>
+			</main>
 		</div>
-		<script src="./js/main.js"></script>
 	</body>
 </html>

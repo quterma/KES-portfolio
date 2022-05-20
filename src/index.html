@@ -12,39 +12,29 @@
 			content="Elena Korchmina, Economic History, Fiscal History, European Elites, korchmina, Marie Skłodowska-Curie, Marie Curie, Taxation, History, Корчмина, экономическая история, дворяне, Мари кюри, история, налоги"
 		/>
 
-		<title>Economic history - Elena Korchmina | Media articles</title>
-		<link rel="stylesheet" href="./css/reset.css" />
-		<link rel="stylesheet" href="./css/styles.css" />
-		<link
-			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&family=Yellowtail&display=swap"
-			rel="stylesheet"
-		/>
+		<title>Economic history - Elena Korchmina | About Me</title>
 		<link
 			rel="stylesheet"
 			href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
 			integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V"
 			crossorigin="anonymous"
 		/>
-		<link rel="stylesheet" href="./css/mediaquery.css" media="screen" />
 	</head>
 	<body>
 		<div class="wrapper noselect">
 			<aside class="sidebar">
 				<h2 class="sidebar__logo">Economic history</h2>
 				<h4 class="sidebar__sublogo">Let's understand the past...</h4>
-				<i id="deviceDropDownButton" class="device__dropDownButton fas fa-bars" onfocus="this.blur()"></i>
+				<i id="deviceDropDownButton" class="device__dropDownButton fas fa-bars noselect" onfocus="this.blur()"></i>
 				<nav class="nav">
 					<div class="nav__item sidebar__title"><a href="./publications.html">Publications</a></div>
-					<div class="nav__item sidebar__title">
-						<a href="./media.html">Presentations</a>
-					</div>
-					<div class="nav__item sidebar__title nav__item--active">Media articles</div>
+					<div class="nav__item sidebar__title"><a href="./media.html">Presentations</a></div>
+					<div class="nav__item sidebar__title"><a href="./articles.html">Media articles</a></div>
 					<div class="nav__item sidebar__title"><a href="./current.html">Current projects</a></div>
-					<div class="nav__item sidebar__title margin--break"><a href="./index.html">About Me</a></div>
+					<div class="nav__item sidebar__title nav__item--active margin--break">About Me</div>
 					<div class="nav__item sidebar__title"><a href="./awards.html">Awards</a></div>
 					<div class="nav__item sidebar__title"><a href="./grants.html">Grants</a></div>
 				</nav>
-
 				<h3 id="sidebarSocial" class="sidebar__title margin--break">Social</h3>
 				<div class="social">
 					<a href="https://www.linkedin.com/in/elena-korchmina-91320a71/" target="_blank" class="social__link">
@@ -68,14 +58,46 @@
 				<button
 					type="submit"
 					onclick="window.open('./docs/KorchminaCV.pdf')"
-					class="button hideble margin--break"
+					class="button margin--break hideble"
 				>
 					My CV
 				</button>
 			</aside>
+			<main class="main">
+				<h1 class="main__title">Elena Korchmina</h1>
+				<h2 class="main__subtitle">I explore economic history</h2>
+				<div class="photo-text-container">
+					<div class="aboutme__photo__container">
+						<img
+							src="./images/KES.jpg"
+							alt="Фото: © Павел Александров / «Секрет Фирмы»"
+							id="aboutmePhoto"
+							class="aboutme__photo"
+						/>
+						<h3 id="aboutmePhotoCaption" class="aboutme__photo__caption">Photo: © Павел Александров<br />«Секрет Фирмы»</h3>
+					</div>
+					<div class="aboutme__info">
+						<p class="aboutme__citation">
+							"Back in 1904-1906, it amazed me on what grounds an historical embroglio (nedorazumenie) as the Russian Empire
+							has rested."
+						</p>
+						<h4 class="aboutme__citation__author">- S.B. Veselovsky</h4>
 
-			<main class="main articles__container"></main>
+						<p class="common__text">
+							I am a Marie Skłodowska-Curie Fellow, at the Department of Economics, University of Southern Denmark. I research the
+							Economic History of Early Modern Europe, especially the Fiscal History of European Elites. I have a PhD in
+							Russian History and have since specialized in Russian economic history.
+						</p>
+					</div>
+				</div>
+				<p class="common__text">
+					<span class="bold">Research Areas: </span>Economic History of Eastern Europe; Taxation; History of European
+					Nobility.
+				</p>
+				<button type="submit" onclick="window.open('./docs/KorchminaCV.pdf')" class="button margin--break">
+					My CV
+				</button>
+			</main>
 		</div>
-		<script src="./js/main.js"></script>
 	</body>
 </html>

@@ -2,10 +2,12 @@
 	"name": "kes",
 	"version": "1.0.0",
 	"main": "main.js",
-	"type": "module",
 	"scripts": {
 		"lint": "eslint .",
-		"lint:fix": "eslint --fix ."
+		"lint:fix": "eslint --fix .",
+		"start": "webpack-dev-server --config webpack.dev.js --mode development",
+		"build": "webpack --config webpack.prod.js --mode production",
+		"preview": "npm run build && http-server dist"
 	},
 	"repository": {
 		"type": "git",
@@ -14,10 +16,25 @@
 	"author": "Daniil_Shapiro",
 	"license": "ISC",
 	"devDependencies": {
+		"@babel/core": "^7.18.0",
+		"@babel/preset-env": "^7.18.0",
+		"babel-loader": "^8.2.5",
+		"clean-webpack-plugin": "^4.0.0",
+		"copy-webpack-plugin": "^11.0.0",
+		"css-loader": "^6.7.1",
+		"css-minimizer-webpack-plugin": "^4.0.0",
 		"editorconfig": "^0.15.3",
 		"eslint": "^7.23.0",
 		"eslint-config-prettier": "^8.1.0",
 		"eslint-plugin-prettier": "^3.3.1",
-		"prettier": "^2.2.1"
+		"html-webpack-plugin": "^5.5.0",
+		"http-server": "^14.1.0",
+		"mini-css-extract-plugin": "^2.6.0",
+		"prettier": "^2.2.1",
+		"style-loader": "^3.3.1",
+		"terser-webpack-plugin": "^5.3.1",
+		"webpack": "^5.72.1",
+		"webpack-cli": "^4.9.2",
+		"webpack-dev-server": "^4.9.0"
 	}
 }
