@@ -1,4 +1,6 @@
-require('./main.js');
-require('../css/reset.css');
-require('../css/styles.css');
-require('../css/mediaquery.css');
+import './main.js';
+import '../css/reset.css';
+import '../css/styles.css';
+import '../css/mediaquery.css';
+
+export { uncoverMediaIframe } from './main.js';

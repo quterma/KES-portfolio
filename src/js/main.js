@@ -69,7 +69,7 @@ function createMediaPresent(present) {
       newDiv.outerHTML = `
       <div class="mediaPresent">
         <div class="mediaPresent__iframe cover" style="background-image: url(${ present.coverImageURL });">
-          <i class="fab fa-youtube cover__play" onclick="uncoverMediaIframe(this);"></i>
+          <i class="fab fa-youtube cover__play" onclick="EntryPoint.uncoverMediaIframe(this);"></i>
         </div>
         <a href=${ present.captionLink } class="mediaPresent__link" target="_blank">${ present.captionRussianName }</a>
 				${ subtitles }
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // uncover media iframe
-function uncoverMediaIframe(button) {
+export function uncoverMediaIframe(button) {
   const parent = button.parentNode;
   function checkName(element) {
     return parent.parentNode.innerHTML.includes(element.captionRussianName);
@@ -192,5 +192,4 @@ document.addEventListener('DOMContentLoaded', () => {
     .forEach((element) => {
       createPublication(element);
     });
-
 });

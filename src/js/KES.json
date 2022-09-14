@@ -9,7 +9,16 @@
 			"year": "2020"
 		},
 
-  {
+    {
+			"captionRussianName": "Первый расчёт ВВП России XVIII и XIX веков. Родина слонов №335.",
+			"captionLink": "https://www.youtube.com/watch?v=B7bF7EX7xxA",
+			"coverImageURL": "../images/media-first-vvp.jpg",
+			"iframeURL": "https://www.youtube.com/embed/B7bF7EX7xxA",
+			"isVideo": true,
+			"year": "2022"
+		},
+
+    {
 			"captionRussianName": "Положение женщин в Российской империи. Часть 1. Родина слонов № 315.",
 			"captionLink": "https://www.youtube.com/watch?v=mieBFyPHO5o",
 			"coverImageURL": "../images/media-polozhenie-zhenshin.jpg",

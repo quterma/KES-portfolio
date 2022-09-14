@@ -12,6 +12,8 @@ module.exports = {
   output: {
     filename: '[name].[hash:20].js',
     path: buildPath,
+    libraryTarget: 'var',
+    library: 'EntryPoint'
   },
   entry: {
     index: './src/js/index.js',
@@ -79,7 +81,12 @@ module.exports = {
   optimization: {
     minimize: true,
     minimizer: [
-      new TerserPlugin(),
+      new TerserPlugin({
+        terserOptions: {
+          keep_classnames: true,
+          keep_fnames: true
+        }
+      }),
       new CssMinimizerPlugin(),
     ]
   },
