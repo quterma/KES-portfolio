@@ -8,8 +8,16 @@
 			"isVideo": true,
 			"year": "2020"
 		},
+		{
+			"captionRussianName": "Почему масоны не захватят власть над миром? Ученые против мифов 18-4. Историк Дарья Лотарева. - АНТРОПОГЕНЕЗ.РУ",
+			"captionLink": "https://www.youtube.com/watch?v=0vMw-L3RTOs",
+			"coverImageURL": "../images/media-masoni.jpg",
+			"iframeURL": "https://www.youtube.com/embed/v=0vMw-L3RTOs",
+			"isVideo": true,
+			"year": "2022"
+		},
 
-    {
+		{
 			"captionRussianName": "Первый расчёт ВВП России XVIII и XIX веков. Родина слонов №335.",
 			"captionLink": "https://www.youtube.com/watch?v=B7bF7EX7xxA",
 			"coverImageURL": "../images/media-first-vvp.jpg",
@@ -18,7 +26,7 @@
 			"year": "2022"
 		},
 
-    {
+		{
 			"captionRussianName": "Положение женщин в Российской империи. Часть 1. Родина слонов № 315.",
 			"captionLink": "https://www.youtube.com/watch?v=mieBFyPHO5o",
 			"coverImageURL": "../images/media-polozhenie-zhenshin.jpg",
@@ -169,25 +177,25 @@
 		},
 		{
 			"captionRussianName": "«Сколько это стоило: перевозка грузов и почты в России во второй половине XVIII — начале XIX века» - проект «Исторический багаж».",
-			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2228",
+			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/skolko-eto-stoilo%3A-perevozka-gruzov-i-pochty-v-rossii-vo-vtoroy-polovine-xviii-%E2%80%94-nachale-xix-veka-154",
 			"coverImageURL": "../images/bagaz-1.jpg",
-			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2228",
+			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/skolko-eto-stoilo%3A-perevozka-gruzov-i-pochty-v-rossii-vo-vtoroy-polovine-xviii-%E2%80%94-nachale-xix-veka-154",
 			"isVideo": false,
 			"year": "2021"
 		},
 		{
 			"captionRussianName": "«Сколько это стоило: последствия войны 1812 года для экономики России» - проект «Исторический багаж».",
-			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2325",
+			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/search?request=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D1%8D%D1%82%D0%BE+%D1%81%D1%82%D0%BE%D0%B8%D0%BB%D0%BE%3A+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F+%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B+18",
 			"coverImageURL": "../images/bagaz-2.jpg",
-			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2325",
+			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/search?request=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D1%8D%D1%82%D0%BE+%D1%81%D1%82%D0%BE%D0%B8%D0%BB%D0%BE%3A+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F+%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B+18",
 			"isVideo": false,
 			"year": "2021"
 		},
 		{
 			"captionRussianName": "«Экономическая повседневность большой русской усадьбы: село Влахернское при князьях Голицыных в середине XVIII века» - проект «Исторический багаж».",
-			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2187",
+			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/ekonomicheskaya-povsednevnost-bolshoy-russkoy-usadby%3A-selo-vlahernskoe-pri-knyazyah-golicynyh-v-seredine-xviii-veka-254",
 			"coverImageURL": "../images/bagaz-3.jpg",
-			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2187",
+			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/ekonomicheskaya-povsednevnost-bolshoy-russkoy-usadby%3A-selo-vlahernskoe-pri-knyazyah-golicynyh-v-seredine-xviii-veka-254",
 			"isVideo": false,
 			"year": "2021"
 		},
@@ -258,12 +266,19 @@
 			"isVideo": false,
 			"year": "2016"
 		},
-
-  {
+		{
+			"captionRussianName": "Catching-up and falling behind: Russian economic growth, 1690s–1880s - интервью «газета.ru».",
+			"captionLink": "https://cepr.org/voxeu/columns/catching-and-falling-behind-russian-economic-growth-1690s-1880s",
+			"coverImageURL": "../images/media-article-catching-up.jpg",
+			"iframeURL": "https://cepr.org/voxeu/columns/catching-and-falling-behind-russian-economic-growth-1690s-1880s",
+			"isVideo": false,
+			"year": "2022"
+		},
+		{
 			"captionRussianName": "«Дух пронырства и партий»: дворянское самоуправление и конфликты во время выборов в России первой трети XIX века.",
-			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2512",
+			"captionLink": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/duh-pronyrstva-i-partiy%3A-dvoryanskoe-samoupravlenie-i-konflikty-vo-vremya-vyborov-v-rossii-pervoy-treti-xix-veka-187",
 			"coverImageURL": "../images/duh_pronirstva.jpg",
-			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/materials/history/details.php?page=2512",
+			"iframeURL": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/duh-pronyrstva-i-partiy%3A-dvoryanskoe-samoupravlenie-i-konflikty-vo-vremya-vyborov-v-rossii-pervoy-treti-xix-veka-187",
 			"isVideo": false,
 			"year": "2022"
 		}
