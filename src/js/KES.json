@@ -1,6 +1,15 @@
 {
 	"mediaPresents": [
 		{
+			"captionRussianName": "Великая дивергенция. Экономический взлёт Европы в Новое время. Родина слонов №382",
+			"captionLink": "https://www.youtube.com/watch?v=-5w5ktXMYoA",
+			"coverImageURL": "../images/media-ros-382.jpg",
+			"iframeURL": "https://www.youtube.com/embed/-5w5ktXMYoA",
+			"isVideo": true,
+			"year": "2023"
+		},
+
+		{
 			"captionRussianName": "Крестьянское хозяйство. Родина слонов.",
 			"captionLink": "https://www.youtube.com/watch?v=P_BaBlJLlAA",
 			"coverImageURL": "../images/media-kr-hoz.jpg",
@@ -463,6 +472,18 @@
 			"fileLink": "./docs/Catching_up_and_falling_behind_Russian_e.pdf",
 			"type": "working"
 		},
+
+		{
+			"coAuthors": "",
+			"title": "Wealth, inequality, and sex: the changes in female and male wealth and their consequences for the governance of the Russian Empire from 1700s to 1850s.",
+			"journal": "EHES Working Paper.",
+			"year": "2023",
+			"rest": "No. 243.",
+			"journalLink": "",
+			"fileLink": "./docs/EHES_243.pdf",
+			"type": "working"
+		},
+
 		{
 			"coAuthors": "Ilya Voskoboinikov",
 			"title": "Могло ли измельчание помещичьих хозяйств в конце XVIII – начале XIX вв. сделать их более производительными?",
