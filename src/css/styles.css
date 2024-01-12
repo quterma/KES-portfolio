@@ -151,6 +151,8 @@ body {
 
 .aboutme__photo {
 	min-width: 210px;
+	max-width: 350px;
+	max-height: 520px;
 }
 
 .aboutme__photo__caption {
