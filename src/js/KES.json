@@ -10,6 +10,15 @@
 		},
 
 		{
+			"captionRussianName": "В споре Петра I и Екатерины II — кто оказался гигантом экономической мысли? Семинар DHRI",
+			"captionLink": "https://www.youtube.com/watch?v=BPPQWm8UB3I",
+			"coverImageURL": "../images/media-v-spore-petra.jpg",
+			"iframeURL": "https://www.youtube.com/embed/BPPQWm8UB3I",
+			"isVideo": true,
+			"year": "2024"
+		},
+
+		{
 			"captionRussianName": "Крестьянское хозяйство. Родина слонов.",
 			"captionLink": "https://www.youtube.com/watch?v=P_BaBlJLlAA",
 			"coverImageURL": "../images/media-kr-hoz.jpg",
