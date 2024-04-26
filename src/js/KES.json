@@ -1,6 +1,15 @@
 {
 	"mediaPresents": [
 		{
+			"captionRussianName": "Говорим о положении крестьян и дворян после Петровских реформ. Подкасты Медузы",
+			"captionLink": "https://www.youtube.com/watch?v=7snlQvgzYq0",
+			"coverImageURL": "../images/media-petr-03_24.jpg",
+			"iframeURL": "https://www.youtube.com/embed/7snlQvgzYq0",
+			"isVideo": true,
+			"year": "2024"
+		},
+
+		{
 			"captionRussianName": "Великая дивергенция. Экономический взлёт Европы в Новое время. Родина слонов №382",
 			"captionLink": "https://www.youtube.com/watch?v=-5w5ktXMYoA",
 			"coverImageURL": "../images/media-ros-382.jpg",
