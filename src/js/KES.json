@@ -483,14 +483,23 @@
 		{
 			"coAuthors": "Broadberry, Stephen.",
 			"title": "Catching-up and falling behind: Russian economic growth, 1690s-1880s.",
-			"journal": "accepted in The Journal of Economic History.",
-			"year": "2023",
-			"rest": "",
+			"journal": "The Journal of Economic History.",
+			"year": "2024",
+			"rest": "Vol. 84, No. 4 (December 2024)",
 			"journalLink": "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17458",
-			"fileLink": "./docs/Catching_up_and_falling_behind_Russian_e.pdf",
+			"fileLink": "./docs/02_Broadberry.pdf",
 			"type": "review"
 		},
-
+		{
+			"coAuthors": "",
+			"title": "Should I stay or should I go? Living standards of serfs and peasants in 18th century Moscow Rivista di storia economica.",
+			"journal": "Italian Review of Economic History, accepted.",
+			"year": "2024",
+			"rest": "",
+			"journalLink": "",
+			"fileLink": "./docs/should_i_stay.pdf",
+			"type": "review"
+		},
 		{
 			"coAuthors": "",
 			"title": "Wealth, inequality, and sex: the changes in female and male wealth and their consequences for the governance of the Russian Empire from 1700s to 1850s.",
@@ -499,6 +508,16 @@
 			"rest": "No. 243.",
 			"journalLink": "",
 			"fileLink": "./docs/EHES_243.pdf",
+			"type": "working"
+		},
+		{
+			"coAuthors": "Mikołaj Malinowski",
+			"title": "How extractive was Russian Serfdom? Income inequality in Moscow Province in the early 19th century.",
+			"journal": "Working Papers from European Historical Economics Society (EHES).",
+			"year": "2024",
+			"rest": "No 266.",
+			"journalLink": "https://econpapers.repec.org/paper/heswpaper/0266.htm",
+			"fileLink": "",
 			"type": "working"
 		},
 
